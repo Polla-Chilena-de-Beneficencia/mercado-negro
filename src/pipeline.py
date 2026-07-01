@@ -862,6 +862,21 @@ def svg_compact(value: float) -> str:
     return svg_currency(value)
 
 
+def svg_millions_integer(value: float) -> str:
+    return str(int(value / 1_000_000))
+
+
+def svg_heatmap_cell_value(value: float) -> str:
+    if value < 1_000_000:
+        return ""
+    return svg_millions_integer(value)
+
+
+def svg_week_label(period: str) -> str:
+    week_number = datetime.fromisoformat(period).date().isocalendar().week
+    return f"S{week_number:02d}"
+
+
 def svg_escape(value: str) -> str:
     return (
         value.replace("&", "&amp;")
@@ -1087,7 +1102,7 @@ def build_lines_svg(payload: dict[str, Any]) -> str:
         '<desc id="desc">Mapa de calor con la evolucion semanal estimada de la inversion por marca.</desc>',
         '<rect width="100%" height="100%" fill="#f6f2e9"/>',
         '<text x="48" y="52" font-family="Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">Mapa de calor semanal de la inversion estimada por marca</text>',
-        '<text x="48" y="82" font-family="Helvetica Neue, Arial, sans-serif" font-size="18" fill="#5f6b7a">Cada celda representa un corte semanal de 2026. Cuanto mas intenso el color, mayor la inversion estimada observada.</text>',
+        '<text x="48" y="82" font-family="Helvetica Neue, Arial, sans-serif" font-size="18" fill="#5f6b7a">Columnas por numero de semana. Cifras y leyenda en millones de CLP, sin decimales.</text>',
         '<rect x="48" y="882" width="1184" height="44" rx="14" fill="#fff4dd" stroke="#f59e0b" stroke-width="1.5"/>',
         '<text x="70" y="910" font-family="Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="700" fill="#92400e">Prevencion:</text>',
         '<text x="178" y="910" font-family="Helvetica Neue, Arial, sans-serif" font-size="16" fill="#7c2d12">AJUTER advierte que el juego puede pasar a ocupar prioridad sobre otras actividades y persistir pese a danos.</text>',
@@ -1097,7 +1112,7 @@ def build_lines_svg(payload: dict[str, Any]) -> str:
     for period_index, period in enumerate(payload["periods"]):
         x = margin_left + cell_width * period_index + cell_width / 2
         parts.append(
-            f'<text x="{x}" y="{margin_top - 18}" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="14" fill="#64748b">{svg_escape(period)}</text>'
+            f'<text x="{x}" y="{margin_top - 18}" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="14" fill="#64748b">{svg_escape(svg_week_label(period))}</text>'
         )
         parts.append(f'<line x1="{margin_left + cell_width * period_index}" y1="{margin_top}" x2="{margin_left + cell_width * period_index}" y2="{margin_top + plot_height}" stroke="#efeadd" stroke-width="1"/>')
 
@@ -1112,10 +1127,11 @@ def build_lines_svg(payload: dict[str, Any]) -> str:
             parts.append(
                 f'<rect x="{x + 2}" y="{y + 2}" width="{cell_width - 4}" height="{cell_height - 4}" rx="6" fill="{heat_color(value)}"/>'
             )
-            if value > 0:
+            cell_label = svg_heatmap_cell_value(value)
+            if cell_label:
                 text_color = "#ffffff" if max_value and value / max_value > 0.45 else "#1f2937"
                 parts.append(
-                    f'<text x="{x + cell_width / 2}" y="{y + cell_height / 2 + 4}" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" fill="{text_color}">{svg_escape(svg_compact(value))}</text>'
+                    f'<text x="{x + cell_width / 2}" y="{y + cell_height / 2 + 4}" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="9" fill="{text_color}">{svg_escape(cell_label)}</text>'
                 )
 
     legend_x = 48
@@ -1125,7 +1141,7 @@ def build_lines_svg(payload: dict[str, Any]) -> str:
         x = legend_x + step * 90
         parts.append(f'<rect x="{x}" y="{legend_y - 16}" width="44" height="16" rx="6" fill="{heat_color(value)}"/>')
         parts.append(
-            f'<text x="{x + 22}" y="{legend_y + 18}" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#64748b">{svg_escape(svg_compact(value))}</text>'
+            f'<text x="{x + 22}" y="{legend_y + 18}" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" fill="#64748b">{svg_escape(svg_millions_integer(value))}</text>'
         )
 
     parts.append("</svg>")
@@ -2048,6 +2064,11 @@ def build_visualization_html(payload: dict[str, Any]) -> str:
       return "$" + compactFormatter.format(value);
     }
 
+    function formatHeatmapCell(value) {
+      if (value < 1000000) return "";
+      return String(Math.trunc(value / 1000000));
+    }
+
     function prettyPeriod(value) {
       const [year, month, day] = value.split("-").map(Number);
       return periodFormatter.format(new Date(year, month - 1, day));
@@ -2058,6 +2079,16 @@ def build_visualization_html(payload: dict[str, Any]) -> str:
       return new Intl.DateTimeFormat("es-CL", { day: "2-digit", month: "short" })
         .format(new Date(year, month - 1, day))
         .replace(".", "");
+    }
+
+    function weekLabel(value) {
+      const [year, month, day] = value.split("-").map(Number);
+      const date = new Date(Date.UTC(year, month - 1, day));
+      const dayNumber = date.getUTCDay() || 7;
+      date.setUTCDate(date.getUTCDate() + 4 - dayNumber);
+      const yearStart = new Date(Date.UTC(date.getUTCFullYear(), 0, 1));
+      const weekNumber = Math.ceil((((date - yearStart) / 86400000) + 1) / 7);
+      return "S" + String(weekNumber).padStart(2, "0");
     }
 
     function mediaLabel(slug) {
@@ -2289,7 +2320,7 @@ def build_visualization_html(payload: dict[str, Any]) -> str:
       payload.periods.forEach((period, index) => {
         const x = margin.left + cellWidth * index;
         content += '<line class="axis-line" x1="' + x + '" y1="' + margin.top + '" x2="' + x + '" y2="' + (height - margin.bottom) + '"></line>';
-        content += '<text class="axis-label" x="' + (x + cellWidth / 2) + '" y="' + (margin.top - 12) + '" text-anchor="middle">' + compactPeriod(period) + '</text>';
+        content += '<text class="axis-label" x="' + (x + cellWidth / 2) + '" y="' + (margin.top - 12) + '" text-anchor="middle">' + weekLabel(period) + '</text>';
       });
 
       activeBrands.forEach((item, rowIndex) => {
@@ -2300,8 +2331,9 @@ def build_visualization_html(payload: dict[str, Any]) -> str:
           const x = margin.left + cellWidth * columnIndex;
           const textColor = value / maxValue > 0.45 ? '#ffffff' : '#1f2937';
           content += '<rect x="' + (x + 2) + '" y="' + (y + 2) + '" width="' + (cellWidth - 4) + '" height="' + (cellHeight - 4) + '" rx="6" fill="' + heatColor(value) + '"></rect>';
-          if (value > 0) {
-            content += '<text x="' + (x + cellWidth / 2) + '" y="' + (y + cellHeight / 2 + 4) + '" text-anchor="middle" font-size="11" fill="' + textColor + '">' + formatCompact(value) + '</text>';
+          const cellLabel = formatHeatmapCell(value);
+          if (cellLabel) {
+            content += '<text x="' + (x + cellWidth / 2) + '" y="' + (y + cellHeight / 2 + 3) + '" text-anchor="middle" font-size="9" fill="' + textColor + '">' + cellLabel + '</text>';
           }
         });
       });
