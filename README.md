@@ -14,7 +14,7 @@ Por ello, esta medición no solo cuantifica inversión: también visibiliza la r
 
 ## Acceso directo
 
-- GitHub Pages: [dna33.github.io/casas_de_apuesta_y_casinos_ilegales](https://dna33.github.io/casas_de_apuesta_y_casinos_ilegales/)
+- GitHub Pages: [polla-chilena-de-beneficencia.github.io/mercado-negro](https://polla-chilena-de-beneficencia.github.io/mercado-negro/)
 - Visualización publicada: [output/site/index.html](output/site/index.html)
 - Visualización exportada: [output/visualizations/inversion_semanal_por_casino_ilegal.html](output/visualizations/inversion_semanal_por_casino_ilegal.html)
 - Resumen de visualización: [output/visualizations/inversion_semanal_por_casino_ilegal_summary.json](output/visualizations/inversion_semanal_por_casino_ilegal_summary.json)
