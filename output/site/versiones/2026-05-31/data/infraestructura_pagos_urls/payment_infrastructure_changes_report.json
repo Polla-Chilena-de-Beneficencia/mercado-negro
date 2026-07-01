@@ -1,0 +1,437 @@
+{
+  "current_input": "Levantamiento casas de apuestas 29-04.xlsx",
+  "previous_input": "Casas de apuestas levantamiento.xlsx",
+  "changed_brand_count": 12,
+  "changed_brands": [
+    {
+      "brand_name": "TONYBET",
+      "change_count": 22,
+      "payment_gateways": {
+        "added": [
+          "CLEO",
+          "PAYKU"
+        ],
+        "removed": []
+      },
+      "payment_methods": {
+        "added": [
+          "Cleo",
+          "Webpay, Payku"
+        ],
+        "removed": [
+          "Dep\u00f3sito bancario (Transferencia)",
+          "ETpay",
+          "Webpay, ALPS SPA"
+        ]
+      },
+      "casino_urls": {
+        "added": [
+          "https://tonybet.com/cl"
+        ],
+        "removed": []
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://api.paymentiq.io/paymentiq/api/piq-redirect-assistance/72001f66-03d2-4cad-a2a9-b9d6e1744092",
+          "https://api.paymentiq.io/paymentiq/api/piq-redirect-assistance/7c817536-5798-418c-9201-cd96c9f5c593",
+          "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=c842123b-4eb0-4fda-a8f1-bec1883329fb",
+          "https://pay.skrill.com/wallet/checkout/options?sid=d3dcb032dfda4674c8e26dbb004cb9c6",
+          "https://payments.alps.cl/justpay/check-out/?channel=online-fintoc&tokenID=kQjbfiKV4ZfbjTQpKTD6eLFI1jP0ZtBDv8afCTu5&alps=1",
+          "https://pmt-alps.etpayment.com/session/yDe9IO9tEKOuGLZ3J8W0iN6rVipH8MGMMDPRZWWqBWvomSSuqMQNfgS2DnVyK7rB",
+          "https://tonybet.com/cl",
+          "https://www.cleopagos.com/?id=10e43b47-6043-4c67-8838-2a951afc0b5f"
+        ],
+        "removed": [
+          "https://api.paymentiq.io/paymentiq/api/piq-redirect-assistance/1e588eb7-002e-40a4-b178-6411d839900e",
+          "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=3f950bf1-7b21-45ff-a9cf-af0efa197f0a",
+          "https://pay.skrill.com/wallet/checkout?sid=0fb5848b5e8075bf2abaa1782f225a39",
+          "https://payments.alps.cl/justpay/check-out/?channel=online-fintoc&tokenID=cYvHiLuiIbouxaLOwSOMVSahLYWpZlNnTD5OMxuQ&alps=1",
+          "https://pmt-01.etpayment.com/session/fcGWYOlZe1FdZGj2Z8BUIU9q5ZQMPgbf3vxCFwehOWGqwCb5Z2GmH6gyWogQqfeD/login",
+          "https://pmt-alps.etpayment.com/session/fTXn0PNqO1n4grQ2iHSOihEdBThVVwSme1YatkHJiH3LW90QNSy3XLgncDJzJ4zf"
+        ]
+      }
+    },
+    {
+      "brand_name": "1XBET",
+      "change_count": 20,
+      "payment_gateways": {
+        "added": [
+          "ASTROPAY",
+          "KUSHKI"
+        ],
+        "removed": [
+          "ALPS SPA",
+          "PAYKU"
+        ]
+      },
+      "payment_methods": {
+        "added": [
+          "Astropay",
+          "Webpay, Kushki"
+        ],
+        "removed": [
+          "Dep\u00f3sito bancario (Transferencia)",
+          "ETpay / Alps",
+          "Ingresar D\u00e9bito/Cr\u00e9dito",
+          "Webpay, Payku"
+        ]
+      },
+      "casino_urls": {
+        "added": [],
+        "removed": []
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://nfasd63.illongrlong.com/payment?project_id=148266&redirect_return_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fpending%2F&redirect_success_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fsuccess%2F&redirect_fail_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Ffail%2F&redirect_success_mode=parent_page&redirect_fail_mode=parent_page&redirect=1&payment_id=21417134705&payment_description=Account+deposit+1630877173&payment_currency=USD&payment_amount=150&mode=purchase&merchant_success_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fsuccess%2F&merchant_success_redirect_mode=parent_page&merchant_success_enabled=1&merchant_return_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fpending%2F&merchant_return_redirect_mode=parent_page&merchant_return_enabled=1&merchant_fail_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Ffail%2F&merchant_fail_redirect_mode=parent_page&merchant_fail_enabled=1&language_code=es&force_payment_method=unify_Binance_Pay&force_acs_new_window=0&customer_id=1630877173&signature=Mw59m0lAb1uh8ORfnXjSzZxo06u5k0nnHzzzx3%2BKlx%2F36H2qG%2Bg1y2jirVVBJs9%2Bi67dHN8%2BHohLnYYinEmeWw%3D%3D",
+          "https://pay.skrill.com/wallet/checkout/options?sid=e3ce5928ca43437b7dc05e7ccc45659a",
+          "https://pmt-01.etpayment.com/session/PVqJcBFvaw8Eq4bSm1Ns14g6B4cC05cPwxyrwqrCApx9jerrd2tBDFlUh38zkJsy/login",
+          "https://pmt-01.etpayment.com/session/aFEe79YgvNKJcdruUQqOba2f3xF4oinPgs0ST7Kn3RJyRhfY3bKUkbXYJQeolJDA/previous_tnb",
+          "https://www.cleopagos.com/?id=31aaf1b4-22a5-4cb6-8cc0-175243006c17"
+        ],
+        "removed": [
+          "https://nfasd63.illongrlong.com/payment?project_id=148266&redirect_return_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fpending%2F&redirect_success_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fsuccess%2F&redirect_fail_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Ffail%2F&redirect_success_mode=parent_page&redirect_fail_mode=parent_page&redirect=1&payment_id=21284826291&payment_description=Account+deposit+1630877173&payment_currency=USD&payment_amount=150&mode=purchase&merchant_success_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fsuccess%2F&merchant_success_redirect_mode=parent_page&merchant_success_enabled=1&merchant_return_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fpending%2F&merchant_return_redirect_mode=parent_page&merchant_return_enabled=1&merchant_fail_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Ffail%2F&merchant_fail_redirect_mode=parent_page&merchant_fail_enabled=1&language_code=es&force_payment_method=unify_Binance_Pay&force_acs_new_window=0&customer_id=1630877173&signature=20tS7HWcOAJHVR89Ww4NyogiSoKRkKpYQfwkDAIIuByoRBCFcrTSmPNz4uE8jpcjYFZeDbklBJh%2FlNrg5B9mDw%3D%3D",
+          "https://pay.skrill.com/wallet/checkout?sid=a31a57567eb4ca268f6f86f40c281309",
+          "https://pmt-01.etpayment.com/session/A519khD7StKXTVsSy9LpFIaXaUvhf5mSoF1kExw7ziZI9hoOfZOefHlEKIBjQd07/login",
+          "https://pmt-01.etpayment.com/session/kBU2g5WwNj7XvOxadEVLjBSSY0JOjorZsCKmvSkxHfquZ0Qr0JzKNF36POgyyE45/previous_tnb",
+          "https://www.cleopagos.com/?id=9a7af441-5f71-4a94-b4b8-fc236a5a7fa3"
+        ]
+      }
+    },
+    {
+      "brand_name": "NOVIBET",
+      "change_count": 16,
+      "payment_gateways": {
+        "added": [],
+        "removed": [
+          "FINTOC"
+        ]
+      },
+      "payment_methods": {
+        "added": [
+          "Pago en efectivo"
+        ],
+        "removed": [
+          "Fintoc"
+        ]
+      },
+      "casino_urls": {
+        "added": [],
+        "removed": []
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=25be6111-f018-4a74-936f-06691e68a8c2&CountryID=CHL&ChannelID=ONLINE",
+          "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=7024a539-5681-4aae-84d2-a9614cef2339&CountryID=CHL&ChannelID=CASH",
+          "https://pay.neteller.com/wallet/checkout/options?sid=94b5c25b10f609b5f821a9c2fb2f7e85",
+          "https://pay.skrill.com/wallet/checkout/options/login?sid=8debd762e4b03daf9847faa174f9453f",
+          "https://pay.skrill.com/wallet/checkout/options/suggest-confirmation/type?sid=6fbad62770c1fe416b00ea8448692654",
+          "https://secure.safecharge.com/ppp/purchase.do?merchant_id=8552619114233089123&merchant_site_id=202128&total_amount=50000.0&currency=CLP&country=CL&user_token_id=1494018979459633152&item_name_1=1499415226706731008&item_amount_1=50000.0&item_quantity_1=1&time_stamp=20260430142047&version=4.0.0&payment_method=apmgw_AstroPay&payment_method_mode=filter&merchantLocale=es_CL&merchant_unique_id=1499415226706731008&email=valesaavedra4@gmail.com&customField1=CL&customField2=NoviCL&notify_url=https://safecharge.apinovi.com/api/webhook&success_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&error_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&pending_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&parent_url=https://cl.novibet.com/useraccount/deposit&phone1=0056975700775&back_url=https://cl.novibet.com/useraccount/deposit&first_name=Valentina&last_name=Saavedra%20Sanhueza&city=Pudahuel&state=&zip=9020000&dateOfBirth=2000-05-20&address1=Pasaje%20Isla%20Owen&encoding=UTF-8&checksum=9ba11ad8e1878e77eb039bb5ac49bc8676fe2227791cfe571240b53235d6d8db"
+        ],
+        "removed": [
+          "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=372fad06-bba9-44b8-bee1-7d561f4f9ce8&CountryID=CHL&ChannelID=ONLINE",
+          "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=830bbd2f-5cd7-499e-96ac-1c05cdb7b075&CountryID=CHL&ChannelID=CASH",
+          "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=fad28fe8-3ddc-4c50-b614-8efe5fd7bf92&CountryID=CHL&ChannelID=CASH",
+          "https://pay.neteller.com/wallet/checkout/options?sid=bd8710dbaf504bdbfe3e621736ec4fdc",
+          "https://pay.skrill.com/wallet/checkout/options/login?sid=2221a644066934df6ca9d5138978a16f",
+          "https://pay.skrill.com/wallet/checkout/options/suggest-confirmation/type?sid=8a6738b75d000afc71761d1094d0f906",
+          "https://secure.safecharge.com/ppp/purchase.do?merchant_id=8552619114233089123&merchant_site_id=202128&total_amount=100000.0&currency=CLP&country=CL&user_token_id=1494018979459633152&item_name_1=1496236044630228992&item_amount_1=100000.0&item_quantity_1=1&time_stamp=20260421194751&version=4.0.0&payment_method=apmgw_AstroPay&payment_method_mode=filter&merchantLocale=es_CL&merchant_unique_id=1496236044630228992&email=valesaavedra4@gmail.com&customField1=CL&customField2=NoviCL&notify_url=https://safecharge.apinovi.com/api/webhook&success_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&error_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&pending_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&parent_url=https://cl.novibet.com/useraccount/deposit&phone1=0056975700775&back_url=https://cl.novibet.com/useraccount/deposit&first_name=Valentina&last_name=Saavedra%20Sanhueza&city=Pudahuel&state=&zip=9020000&dateOfBirth=2000-05-20&address1=Pasaje%20Isla%20Owen&encoding=UTF-8&checksum=ff24356f2e57a26a59c21193e48c41128f0f2b04bce48e1f93a37d5d5f3844ca"
+        ]
+      }
+    },
+    {
+      "brand_name": "COOLBET",
+      "change_count": 15,
+      "payment_gateways": {
+        "added": [],
+        "removed": []
+      },
+      "payment_methods": {
+        "added": [],
+        "removed": []
+      },
+      "casino_urls": {
+        "added": [],
+        "removed": []
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://onetouch.astropay.com/deposit/auth/dMsm1SeJcuUmY3IlB63EXyuvzBgd2W5f01XQYx4X",
+          "https://pay.skrill.com/wallet/checkout/options?sid=e5d4f838ec99e9348d9a7b43e447d28d",
+          "https://pmt-01.etpayment.com/session/Rp6pJzg6dxwBTuZ3Y4HeD9BiAdu9ZXJbarSaNYAbOPedhBmglFKvS9GRWY14N4K0",
+          "https://pmt-alps.etpayment.com/session/aQcdZltr3KJzBUPKD13Bpg6aLP3PtU0UnPTjXxM3xhcysv5Ebyya8q2DPbDp9aOI",
+          "https://prontopaga.com/es/payment/step2/01KQDEMRWNV1CT6KF0RFX9728B",
+          "https://webpay3g.transbank.cl/webpayserver/dist/#/",
+          "https://www.cleopagos.com/?id=aa0d1fd2-9160-4a9f-88c5-0edb980cbc00",
+          "https://www.ipg-online.com/connect/payment/paymentSelection;jsessionid=0C8ED3DC82FECA4D6306?t=active&r=dc&k=MTcyLjI5LjU5LjcxOjg4NDM"
+        ],
+        "removed": [
+          "https://onetouch.astropay.com/deposit/auth/vf5BKLgfSP43X1Ah6BR9FLeIuadftuZNGCWLjR1P",
+          "https://pay.skrill.com/wallet/checkout/options?sid=869bbfd12a7b78ba22445da4b3ec12d1",
+          "https://pmt-01.etpayment.com/session/KzJiKiXN6zUGFknLEyAVTyJlk53AEBfPqgaZpL3D7BdATecFLkqKs6DtSCIhWqdi/login",
+          "https://pmt-alps.etpayment.com/session/lKKOyOFw1mijHTaZbJBQmZVQ685ioHzDIrqUQD9vAMEwwNg5mej7ogHW1aF9bsDR",
+          "https://prontopaga.com/es/payment/step2/01KPRCD81X22FNCS1Z9K5KA7YC",
+          "https://www.cleopagos.com/?id=38b85d20-f0e7-4ba8-b380-cd3154d9c010",
+          "https://www.ipg-online.com/connect/payment/paymentSelection;jsessionid=BAC824A109625F0161EF?t=active&r=dc&k=MTcyLjI5LjE5OS4xNDA6ODg0Mw"
+        ]
+      }
+    },
+    {
+      "brand_name": "JUGABET",
+      "change_count": 14,
+      "payment_gateways": {
+        "added": [
+          "BINANCE PAY",
+          "CLEO"
+        ],
+        "removed": []
+      },
+      "payment_methods": {
+        "added": [
+          "Binance Pay",
+          "Cleo"
+        ],
+        "removed": [
+          "ETpay / Kushki"
+        ]
+      },
+      "casino_urls": {
+        "added": [],
+        "removed": []
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://checkout.somosmach.com/payment/97e0f6e0-5265-4882-a0fc-5eb4f06fa37a?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6ImI4YzAzZWEzLTY2YzktNDM3Yy1iMWQ0LWI3ZTE2MWYxMTg5NiIsImJ1c2luZXNzUGF5bWVudElkIjoiOTdlMGY2ZTAtNTI2NS00ODgyLWEwZmMtNWViNGYwNmZhMzdhIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3Nzc0OTMyMjEsImV4cCI6MTc3NzQ5NDcyMX0.sN4pfdVCvgx7cb0LKv-a8TR48SSRl3ed_Q5GUN_FQHc",
+          "https://onetouch.astropay.com/deposit/NlTIqMsoIfiru4lH0HIS4rG1avyP9gclTHyAbWgO",
+          "https://pay2.cryptonbtc.com/public/binance/qr_code/es/507dfc7e-4407-11f1-99b0-ee7a389d9ef8?max_contract_limit=300&contract_limit=0&need_confirmation=True",
+          "https://pmt-01.etpayment.com/session/Y1T211BV8F84Yt6HJD8ZgrgzvKXLokN4KqdqpMQcAYiMj7fHVbgJ7ZGXRxtWkpy7/login",
+          "https://pmt-01.etpayment.com/session/rODd0nPPtSDk9Ix8gQQ0yXdLexvgKKahdQe9Ru5NRIhmF4npeTokul3dMuEDtQar/login",
+          "https://www.cleopagos.com/?id=4d6e179b-be90-4f57-9f6c-74810549d627"
+        ],
+        "removed": [
+          "https://onetouch.astropay.com/v2/deposit/4mBx4DILny1b5AkGYpSDFMctIjLuQCszogzv1xpH?",
+          "https://pmt-01.etpayment.com/session/1OLowDWEUFJ6rkjyYMPAyeEsunce3WqogHeEZvEFXfmJbYzvAHh34Ux2uZWel4a5/login",
+          "https://prontopaga.com/es/payment/step2/01KPRB7XNKY2WSZBQE1KR0KQ3Q"
+        ]
+      }
+    },
+    {
+      "brand_name": "EPICBET",
+      "change_count": 13,
+      "payment_gateways": {
+        "added": [],
+        "removed": []
+      },
+      "payment_methods": {
+        "added": [],
+        "removed": [
+          "ETpay / MONNET"
+        ]
+      },
+      "casino_urls": {
+        "added": [],
+        "removed": []
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://apiin.monnetpayments.com/ms-multiprocessor/ux/operation/8e48f790-37cb-45fd-861a-820eacf0ae6e",
+          "https://changellywidget.banxa.com/?expires=1777563192&id=a6d6ecd1-76d9-41a5-b447-8a889ff40c86&oid=019ddf04e2bf7ae4814a225b775ffa13&signature=331075a5d3a2482253658c91b94e2c68f9ebd685f5d5cb6e64303e52e008074c",
+          "https://changellywidget.banxa.com/?expires=1777563410&id=bc77bce5-4b5e-44f1-95f7-db77478835ae&oid=019ddf0834f579a4aefe7c8e0af6ba1c&signature=35024c0fb5fdfb83ad14a19d017ea0dd9d970cf8c1fe5268d364edeb2a7ba4f8",
+          "https://checkout.somosmach.com/payment/1ce2f70c-8d9e-4546-a821-9837383c538c?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6ImI4YzAzZWEzLTY2YzktNDM3Yy1iMWQ0LWI3ZTE2MWYxMTg5NiIsImJ1c2luZXNzUGF5bWVudElkIjoiMWNlMmY3MGMtOGQ5ZS00NTQ2LWE4MjEtOTgzNzM4M2M1MzhjIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3Nzc1NjMwOTMsImV4cCI6MTc3NzU2NDU5M30.zuOPt7Mv4c9pPjEvhvSnIaMDIUtFRef3dqietwXGmR0",
+          "https://pay.skrill.com/wallet/checkout?sid=b6552be81e0181535d5faeec62505837",
+          "https://pmt-01.etpayment.com/session/S6RGnFlOLJCRGzjGWiHuFFIB6sBO0dhkTij36sprcTp8NBMU6erYJSbEWeRr8w3L"
+        ],
+        "removed": [
+          "https://apiin.monnetpayments.com/ms-multiprocessor/ux/operation/5e799de7-6868-4bb1-b9c6-e62273513a95",
+          "https://changellywidget.banxa.com/?expires=1776878253&id=ded9348f-58d8-40bd-a615-e64dfb25eb26&oid=019db63189b67957945750a65eb3a771&signature=7aa7916f0153507df9b48d1b269ac11d586fa71cd629d73775f0b14d657ae128",
+          "https://checkout.somosmach.com/payment/710238a6-9ffb-4a91-90e3-9b16ac76ce4e?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6ImI4YzAzZWEzLTY2YzktNDM3Yy1iMWQ0LWI3ZTE2MWYxMTg5NiIsImJ1c2luZXNzUGF5bWVudElkIjoiNzEwMjM4YTYtOWZmYi00YTkxLTkwZTMtOWIxNmFjNzZjZTRlIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3NzY4MDQxMzUsImV4cCI6MTc3NjgwNTYzNX0.vVnGOejyxeh3BIsfQDOCmRTf6QalQ3yhb1WYa7FpxT4",
+          "https://pay.skrill.com/wallet/checkout/options?sid=3acce697ecabd15268e091782a94d823",
+          "https://pmt-01.etpayment.com/session/Jm0UCBAkrIkmnXNE6bm2SjIsmb9Ym0kCbmKPl5HXTtCdZbMGGHWmy1eTAA77nVfR/login",
+          "https://pmt-01.etpayment.com/session/zQu9ctmPdoYn6wsOp8Mv2CsYqIKgLhTZ3QLXXCgxkVkLGb2TaPFoxpOAyhTXmXHT/login"
+        ]
+      }
+    },
+    {
+      "brand_name": "MI CASINO",
+      "change_count": 12,
+      "payment_gateways": {
+        "added": [],
+        "removed": []
+      },
+      "payment_methods": {
+        "added": [
+          "Fintoc"
+        ],
+        "removed": [
+          "ETpay"
+        ]
+      },
+      "casino_urls": {
+        "added": [],
+        "removed": []
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://apiin.monnetpayments.com/ms-multiprocessor/ux/operation/bffafaf9-c469-439f-8ab1-bfce37558b14",
+          "https://checkout.somosmach.com/payment/795d67e6-c4ed-48ae-ac00-de51773a6af1?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6Ijk0ZDkzZDM0LTQyNzItNGIwYy1hMjExLTNjZmE3YjM4NGJhOSIsImJ1c2luZXNzUGF5bWVudElkIjoiNzk1ZDY3ZTYtYzRlZC00OGFlLWFjMDAtZGU1MTc3M2E2YWYxIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3Nzc1NTk2ODgsImV4cCI6MTc3NzU2MTE4OH0.r4PEjuflmDkhCaKVHq35_bRslXIWChlWaYqa236fPwo",
+          "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=9e819ffc-77c7-4ec2-899b-0e08ac22a7ce",
+          "https://payments.alps.cl/justpay/check-out/?channel=online-fintoc&tokenID=RgL4wcewtipEhNuwTG52OUP8GcgoIkS4RqQYilOK&alps=1",
+          "https://pmt-alps.etpayment.com/session/WpFXqrB4mTTUsUJhEOfR0VFbbZimCYEZg68a0AthIY9TtZJ4Xo6ZVLaqo7zONiS0"
+        ],
+        "removed": [
+          "https://apiin.monnetpayments.com/ms-multiprocessor/ux/operation/872e026e-23c5-479e-9043-6356e39b59a6",
+          "https://checkout.somosmach.com/payment/098dd30e-a114-4dc3-95a7-90a89f9331c9?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6Ijk0ZDkzZDM0LTQyNzItNGIwYy1hMjExLTNjZmE3YjM4NGJhOSIsImJ1c2luZXNzUGF5bWVudElkIjoiMDk4ZGQzMGUtYTExNC00ZGMzLTk1YTctOTBhODlmOTMzMWM5Iiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3NzY4MDEzOTMsImV4cCI6MTc3NjgwMjg5M30.Kc7EvpXIokYd1xnBY0XMNA9tyed0TKk0KnXCcJcIYAw",
+          "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=6ca55346-f480-41ab-88b9-406f0769cc6d",
+          "https://payments.alps.cl/justpay/check-out/?channel=online-fintoc&tokenID=LKE4K8p6WXM1bHgYbvKc6z7iw7YLWIad2eMTlv5E&alps=1",
+          "https://pmt-alps.etpayment.com/session/kNYaLlDN0UrCvg5upHtdbiVclQmewReB76bb2DRmX4f1JEqFjSn07ZiQr0SXUy7y"
+        ]
+      }
+    },
+    {
+      "brand_name": "BETANO",
+      "change_count": 12,
+      "payment_gateways": {
+        "added": [],
+        "removed": []
+      },
+      "payment_methods": {
+        "added": [
+          "Prontopaga"
+        ],
+        "removed": [
+          "Ingresar D\u00e9bito/Cr\u00e9dito"
+        ]
+      },
+      "casino_urls": {
+        "added": [],
+        "removed": [
+          "https://lat.betano.com/myaccount/deposit/creditcard",
+          "https://lat.betano.com/myaccount/deposit/skrill1tap"
+        ]
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://pay.neteller.com/wallet/checkout/options?sid=2612623cc9cfab6735bfbe280152b48e",
+          "https://prontopaga.com/es/payment/PagaConTuBanco/01KQDDAQRGTG8M3MJ2RG20AXYE",
+          "https://prontopaga.com/es/payment/step2/01KQDD3AQ7HYQFZSG8M9AXVTCX"
+        ],
+        "removed": [
+          "https://lat.betano.com/myaccount/deposit/creditcard",
+          "https://lat.betano.com/myaccount/deposit/skrill1tap",
+          "https://pay.neteller.com/wallet/checkout/options?sid=724159e1fd74fdc817ddf60241b9ede3",
+          "https://prontopaga.com/es/payment/PagaConTuBanco/01KPRB51HT9SZJKTDCE7XQGHP8",
+          "https://prontopaga.com/es/payment/step2/01KPRAZMK74SB4YR36XWMVDREM"
+        ]
+      }
+    },
+    {
+      "brand_name": "ROJABET",
+      "change_count": 5,
+      "payment_gateways": {
+        "added": [],
+        "removed": [
+          "ETPAY"
+        ]
+      },
+      "payment_methods": {
+        "added": [
+          "MONNET"
+        ],
+        "removed": [
+          "ETpay / MONNET"
+        ]
+      },
+      "casino_urls": {
+        "added": [],
+        "removed": []
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://onetouch.astropay.com/deposit/init/XIQtCOnnUEA2blMmCaoxbVE7VXvJBFF33EC3R2IJ"
+        ],
+        "removed": [
+          "https://onetouch.astropay.com/deposit/init/SpvpZW6cMB9LQhcT36ezeRP9LRcAtnz6iiFJ4WXY"
+        ]
+      }
+    },
+    {
+      "brand_name": "BETSSON",
+      "change_count": 5,
+      "payment_gateways": {
+        "added": [],
+        "removed": [
+          "KUSHKI"
+        ]
+      },
+      "payment_methods": {
+        "added": [
+          "Webpay, ProntoPaga"
+        ],
+        "removed": [
+          "Webpay, Kushki"
+        ]
+      },
+      "casino_urls": {
+        "added": [],
+        "removed": []
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://prontopaga.com/es/payment/PagaConTuBanco/01KQDK08SSSHJ1CFW01KN4ZCXS"
+        ],
+        "removed": [
+          "https://prontopaga.com/es/payment/PagaConTuBanco/01KPV25T04MZW7HJKFKJF4Y7E8"
+        ]
+      }
+    },
+    {
+      "brand_name": "APUESTAS ROYAL",
+      "change_count": 4,
+      "payment_gateways": {
+        "added": [],
+        "removed": []
+      },
+      "payment_methods": {
+        "added": [],
+        "removed": []
+      },
+      "casino_urls": {
+        "added": [],
+        "removed": []
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://checkout.somosmach.com/payment/0a0e0097-b512-410b-8ae9-7e353b858dd6?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6Ijc1ZDQxM2M4LTkxOGQtNDVkYi1hNjkwLTg2YWFkYjBiYmEyMCIsImJ1c2luZXNzUGF5bWVudElkIjoiMGEwZTAwOTctYjUxMi00MTBiLThhZTktN2UzNTNiODU4ZGQ2Iiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3Nzc1NTkyNDMsImV4cCI6MTc3NzU2MDc0M30.hlW9SWPhvjqNq5oiN0zpJIOUvoq2hsJT4xTHs2Za9mI",
+          "https://nv.pago46.io/a2e2dfb0-ee39-4a0e-9717-ebb1d217d04a"
+        ],
+        "removed": [
+          "https://checkout.somosmach.com/payment/36a2085b-8a6e-4350-874a-4d9a8ca5487f?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6Ijc1ZDQxM2M4LTkxOGQtNDVkYi1hNjkwLTg2YWFkYjBiYmEyMCIsImJ1c2luZXNzUGF5bWVudElkIjoiMzZhMjA4NWItOGE2ZS00MzUwLTg3NGEtNGQ5YThjYTU0ODdmIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3NzY4MDEwMzEsImV4cCI6MTc3NjgwMjUzMX0.ItF5Hzxxr0RCBUF9u9FgY2kYxHBNEj9EBGEoJUejpBY",
+          "https://nv.pago46.io/43b6c2d2-0aa7-44cc-968f-2e1e1216a2f8"
+        ]
+      }
+    },
+    {
+      "brand_name": "LATAMWIN",
+      "change_count": 2,
+      "payment_gateways": {
+        "added": [],
+        "removed": []
+      },
+      "payment_methods": {
+        "added": [],
+        "removed": []
+      },
+      "casino_urls": {
+        "added": [],
+        "removed": []
+      },
+      "observed_payment_urls": {
+        "added": [
+          "https://www.flow.cl/app/web/pay.php?token=0A7D60BBA66BA152DF3869F8CB5DEDC04E1D357Q"
+        ],
+        "removed": [
+          "https://www.flow.cl/app/web/pay.php?token=1E6F23616EF88D1222057E0AD9411121FC4FF24J"
+        ]
+      }
+    }
+  ]
+}

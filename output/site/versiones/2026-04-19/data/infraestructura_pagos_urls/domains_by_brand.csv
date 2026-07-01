@@ -1,0 +1,68 @@
+brand_name,domain,url
+1XBET,cleopagos.com,https://www.cleopagos.com/?id=9a7af441-5f71-4a94-b4b8-fc236a5a7fa3
+1XBET,nfasd63.illongrlong.com,https://nfasd63.illongrlong.com/payment?project_id=148266&redirect_return_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fpending%2F&redirect_success_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fsuccess%2F&redirect_fail_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Ffail%2F&redirect_success_mode=parent_page&redirect_fail_mode=parent_page&redirect=1&payment_id=21284826291&payment_description=Account+deposit+1630877173&payment_currency=USD&payment_amount=150&mode=purchase&merchant_success_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fsuccess%2F&merchant_success_redirect_mode=parent_page&merchant_success_enabled=1&merchant_return_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fpending%2F&merchant_return_redirect_mode=parent_page&merchant_return_enabled=1&merchant_fail_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Ffail%2F&merchant_fail_redirect_mode=parent_page&merchant_fail_enabled=1&language_code=es&force_payment_method=unify_Binance_Pay&force_acs_new_window=0&customer_id=1630877173&signature=20tS7HWcOAJHVR89Ww4NyogiSoKRkKpYQfwkDAIIuByoRBCFcrTSmPNz4uE8jpcjYFZeDbklBJh%2FlNrg5B9mDw%3D%3D
+1XBET,pay.skrill.com,https://pay.skrill.com/wallet/checkout?sid=a31a57567eb4ca268f6f86f40c281309
+1XBET,pmt-01.etpayment.com,https://pmt-01.etpayment.com/session/A519khD7StKXTVsSy9LpFIaXaUvhf5mSoF1kExw7ziZI9hoOfZOefHlEKIBjQd07/login
+1XBET,pmt-01.etpayment.com,https://pmt-01.etpayment.com/session/kBU2g5WwNj7XvOxadEVLjBSSY0JOjorZsCKmvSkxHfquZ0Qr0JzKNF36POgyyE45/previous_tnb
+1XBET,webpay3g.transbank.cl,https://webpay3g.transbank.cl/webpayserver/dist/#/
+APUESTAS ROYAL,app.payku.cl,https://app.payku.cl/gateway/paymentsfintoc
+APUESTAS ROYAL,checkout.somosmach.com,https://checkout.somosmach.com/payment/36a2085b-8a6e-4350-874a-4d9a8ca5487f?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6Ijc1ZDQxM2M4LTkxOGQtNDVkYi1hNjkwLTg2YWFkYjBiYmEyMCIsImJ1c2luZXNzUGF5bWVudElkIjoiMzZhMjA4NWItOGE2ZS00MzUwLTg3NGEtNGQ5YThjYTU0ODdmIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3NzY4MDEwMzEsImV4cCI6MTc3NjgwMjUzMX0.ItF5Hzxxr0RCBUF9u9FgY2kYxHBNEj9EBGEoJUejpBY
+APUESTAS ROYAL,nv.pago46.io,https://nv.pago46.io/43b6c2d2-0aa7-44cc-968f-2e1e1216a2f8
+APUESTAS ROYAL,webpay3g.transbank.cl,https://webpay3g.transbank.cl/webpayserver/dist/#/
+BETANO,lat.betano.com,https://lat.betano.com/myaccount/deposit/creditcard
+BETANO,lat.betano.com,https://lat.betano.com/myaccount/deposit/skrill
+BETANO,lat.betano.com,https://lat.betano.com/myaccount/deposit/skrill1tap
+BETANO,pay.neteller.com,https://pay.neteller.com/wallet/checkout/options?sid=724159e1fd74fdc817ddf60241b9ede3
+BETANO,prontopaga.com,https://prontopaga.com/es/payment/PagaConTuBanco/01KPRB51HT9SZJKTDCE7XQGHP8
+BETANO,prontopaga.com,https://prontopaga.com/es/payment/step2/01KPRAZMK74SB4YR36XWMVDREM
+BETANO,webpay3g.transbank.cl,https://webpay3g.transbank.cl/webpayserver/dist/#/
+BETSSON,betsson1001.com,https://www.betsson1001.com/cl/deposito?returnUrl=%2Fcl
+BETSSON,checkout.crypta.one,https://checkout.crypta.one/voucher
+BETSSON,prontopaga.com,https://prontopaga.com/es/payment/PagaConTuBanco/01KPV25T04MZW7HJKFKJF4Y7E8
+BETSSON,webpay3g.transbank.cl,https://webpay3g.transbank.cl/webpayserver/dist/#/
+COOLBET,cleopagos.com,https://www.cleopagos.com/?id=38b85d20-f0e7-4ba8-b380-cd3154d9c010
+COOLBET,ipg-online.com,https://www.ipg-online.com/connect/payment/paymentSelection;jsessionid=BAC824A109625F0161EF?t=active&r=dc&k=MTcyLjI5LjE5OS4xNDA6ODg0Mw
+COOLBET,onetouch.astropay.com,https://onetouch.astropay.com/deposit/auth/vf5BKLgfSP43X1Ah6BR9FLeIuadftuZNGCWLjR1P
+COOLBET,pay.skrill.com,https://pay.skrill.com/wallet/checkout/options?sid=869bbfd12a7b78ba22445da4b3ec12d1
+COOLBET,pmt-01.etpayment.com,https://pmt-01.etpayment.com/session/KzJiKiXN6zUGFknLEyAVTyJlk53AEBfPqgaZpL3D7BdATecFLkqKs6DtSCIhWqdi/login
+COOLBET,pmt-alps.etpayment.com,https://pmt-alps.etpayment.com/session/lKKOyOFw1mijHTaZbJBQmZVQ685ioHzDIrqUQD9vAMEwwNg5mej7ogHW1aF9bsDR
+COOLBET,prontopaga.com,https://prontopaga.com/es/payment/step2/01KPRCD81X22FNCS1Z9K5KA7YC
+EPICBET,apiin.monnetpayments.com,https://apiin.monnetpayments.com/ms-multiprocessor/ux/operation/5e799de7-6868-4bb1-b9c6-e62273513a95
+EPICBET,changellywidget.banxa.com,https://changellywidget.banxa.com/?expires=1776878253&id=ded9348f-58d8-40bd-a615-e64dfb25eb26&oid=019db63189b67957945750a65eb3a771&signature=7aa7916f0153507df9b48d1b269ac11d586fa71cd629d73775f0b14d657ae128
+EPICBET,checkout.somosmach.com,https://checkout.somosmach.com/payment/710238a6-9ffb-4a91-90e3-9b16ac76ce4e?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6ImI4YzAzZWEzLTY2YzktNDM3Yy1iMWQ0LWI3ZTE2MWYxMTg5NiIsImJ1c2luZXNzUGF5bWVudElkIjoiNzEwMjM4YTYtOWZmYi00YTkxLTkwZTMtOWIxNmFjNzZjZTRlIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3NzY4MDQxMzUsImV4cCI6MTc3NjgwNTYzNX0.vVnGOejyxeh3BIsfQDOCmRTf6QalQ3yhb1WYa7FpxT4
+EPICBET,pay.skrill.com,https://pay.skrill.com/wallet/checkout/options?sid=3acce697ecabd15268e091782a94d823
+EPICBET,pmt-01.etpayment.com,https://pmt-01.etpayment.com/session/Jm0UCBAkrIkmnXNE6bm2SjIsmb9Ym0kCbmKPl5HXTtCdZbMGGHWmy1eTAA77nVfR/login
+EPICBET,pmt-01.etpayment.com,https://pmt-01.etpayment.com/session/zQu9ctmPdoYn6wsOp8Mv2CsYqIKgLhTZ3QLXXCgxkVkLGb2TaPFoxpOAyhTXmXHT/login
+EPICBET,webpay3g.transbank.cl,https://webpay3g.transbank.cl/webpayserver/dist/#/
+JUGABET,jugabet.cl,https://jugabet.cl/deposit
+JUGABET,onetouch.astropay.com,https://onetouch.astropay.com/v2/deposit/4mBx4DILny1b5AkGYpSDFMctIjLuQCszogzv1xpH?
+JUGABET,pmt-01.etpayment.com,https://pmt-01.etpayment.com/session/1OLowDWEUFJ6rkjyYMPAyeEsunce3WqogHeEZvEFXfmJbYzvAHh34Ux2uZWel4a5/login
+JUGABET,prontopaga.com,https://prontopaga.com/es/payment/step2/01KPRB7XNKY2WSZBQE1KR0KQ3Q
+JUGABET,webpay3g.transbank.cl,https://webpay3g.transbank.cl/webpayserver/dist/#/
+LATAMWIN,flow.cl,https://www.flow.cl/app/web/pay.php?token=1E6F23616EF88D1222057E0AD9411121FC4FF24J
+LATAMWIN,webpay3g.transbank.cl,https://webpay3g.transbank.cl/webpayserver/dist/#/
+MI CASINO,apiin.monnetpayments.com,https://apiin.monnetpayments.com/ms-multiprocessor/ux/operation/872e026e-23c5-479e-9043-6356e39b59a6
+MI CASINO,checkout.somosmach.com,https://checkout.somosmach.com/payment/098dd30e-a114-4dc3-95a7-90a89f9331c9?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6Ijk0ZDkzZDM0LTQyNzItNGIwYy1hMjExLTNjZmE3YjM4NGJhOSIsImJ1c2luZXNzUGF5bWVudElkIjoiMDk4ZGQzMGUtYTExNC00ZGMzLTk1YTctOTBhODlmOTMzMWM5Iiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3NzY4MDEzOTMsImV4cCI6MTc3NjgwMjg5M30.Kc7EvpXIokYd1xnBY0XMNA9tyed0TKk0KnXCcJcIYAw
+MI CASINO,gateway.safetypay.com,https://gateway.safetypay.com/Express4/Checkout/index?TokenID=6ca55346-f480-41ab-88b9-406f0769cc6d
+MI CASINO,micasinoenvivo.com,https://micasinoenvivo.com/#
+MI CASINO,payments.alps.cl,https://payments.alps.cl/justpay/check-out/?channel=online-fintoc&tokenID=LKE4K8p6WXM1bHgYbvKc6z7iw7YLWIad2eMTlv5E&alps=1
+MI CASINO,pmt-alps.etpayment.com,https://pmt-alps.etpayment.com/session/kNYaLlDN0UrCvg5upHtdbiVclQmewReB76bb2DRmX4f1JEqFjSn07ZiQr0SXUy7y
+MI CASINO,webpay3g.transbank.cl,https://webpay3g.transbank.cl/webpayserver/dist/#/
+NOVIBET,gateway.safetypay.com,https://gateway.safetypay.com/Express4/Checkout/index?TokenID=372fad06-bba9-44b8-bee1-7d561f4f9ce8&CountryID=CHL&ChannelID=ONLINE
+NOVIBET,gateway.safetypay.com,https://gateway.safetypay.com/Express4/Checkout/index?TokenID=830bbd2f-5cd7-499e-96ac-1c05cdb7b075&CountryID=CHL&ChannelID=CASH
+NOVIBET,gateway.safetypay.com,https://gateway.safetypay.com/Express4/Checkout/index?TokenID=fad28fe8-3ddc-4c50-b614-8efe5fd7bf92&CountryID=CHL&ChannelID=CASH
+NOVIBET,pay.neteller.com,https://pay.neteller.com/wallet/checkout/options?sid=bd8710dbaf504bdbfe3e621736ec4fdc
+NOVIBET,pay.skrill.com,https://pay.skrill.com/wallet/checkout/options/login?sid=2221a644066934df6ca9d5138978a16f
+NOVIBET,pay.skrill.com,https://pay.skrill.com/wallet/checkout/options/suggest-confirmation/type?sid=8a6738b75d000afc71761d1094d0f906
+NOVIBET,secure.safecharge.com,https://secure.safecharge.com/ppp/purchase.do?merchant_id=8552619114233089123&merchant_site_id=202128&total_amount=100000.0&currency=CLP&country=CL&user_token_id=1494018979459633152&item_name_1=1496236044630228992&item_amount_1=100000.0&item_quantity_1=1&time_stamp=20260421194751&version=4.0.0&payment_method=apmgw_AstroPay&payment_method_mode=filter&merchantLocale=es_CL&merchant_unique_id=1496236044630228992&email=valesaavedra4@gmail.com&customField1=CL&customField2=NoviCL&notify_url=https://safecharge.apinovi.com/api/webhook&success_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&error_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&pending_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&parent_url=https://cl.novibet.com/useraccount/deposit&phone1=0056975700775&back_url=https://cl.novibet.com/useraccount/deposit&first_name=Valentina&last_name=Saavedra%20Sanhueza&city=Pudahuel&state=&zip=9020000&dateOfBirth=2000-05-20&address1=Pasaje%20Isla%20Owen&encoding=UTF-8&checksum=ff24356f2e57a26a59c21193e48c41128f0f2b04bce48e1f93a37d5d5f3844ca
+NOVIBET,webpay3g.transbank.cl,https://webpay3g.transbank.cl/webpayserver/dist/#/
+ROJABET,onetouch.astropay.com,https://onetouch.astropay.com/deposit/init/SpvpZW6cMB9LQhcT36ezeRP9LRcAtnz6iiFJ4WXY
+ROJABET,rojabet.com,https://rojabet.com/es-es
+ROJABET,webpay3g.transbank.cl,https://webpay3g.transbank.cl/webpayserver/dist/#/
+TONYBET,api.paymentiq.io,https://api.paymentiq.io/paymentiq/api/piq-redirect-assistance/1e588eb7-002e-40a4-b178-6411d839900e
+TONYBET,gateway.safetypay.com,https://gateway.safetypay.com/Express4/Checkout/index?TokenID=3f950bf1-7b21-45ff-a9cf-af0efa197f0a
+TONYBET,pay.skrill.com,https://pay.skrill.com/wallet/checkout?sid=0fb5848b5e8075bf2abaa1782f225a39
+TONYBET,payments.alps.cl,https://payments.alps.cl/justpay/check-out/?channel=online-fintoc&tokenID=cYvHiLuiIbouxaLOwSOMVSahLYWpZlNnTD5OMxuQ&alps=1
+TONYBET,pmt-01.etpayment.com,https://pmt-01.etpayment.com/session/fcGWYOlZe1FdZGj2Z8BUIU9q5ZQMPgbf3vxCFwehOWGqwCb5Z2GmH6gyWogQqfeD/login
+TONYBET,pmt-alps.etpayment.com,https://pmt-alps.etpayment.com/session/fTXn0PNqO1n4grQ2iHSOihEdBThVVwSme1YatkHJiH3LW90QNSy3XLgncDJzJ4zf
+TONYBET,webpay3g.transbank.cl,https://webpay3g.transbank.cl/webpayserver/dist/#/

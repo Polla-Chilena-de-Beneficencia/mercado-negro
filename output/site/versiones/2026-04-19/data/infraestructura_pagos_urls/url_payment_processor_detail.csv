@@ -1,0 +1,505 @@
+observed_at,brand_name,url,domain,payment_label,payment_processor,payment_method,is_available,source_file,source_sheet
+2026-04-14,1XBET,,,Astropay,ASTROPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,https://nfasd63.illongrlong.com/payment?project_id=148266&redirect_return_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fpending%2F&redirect_success_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fsuccess%2F&redirect_fail_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Ffail%2F&redirect_success_mode=parent_page&redirect_fail_mode=parent_page&redirect=1&payment_id=21284826291&payment_description=Account+deposit+1630877173&payment_currency=USD&payment_amount=150&mode=purchase&merchant_success_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fsuccess%2F&merchant_success_redirect_mode=parent_page&merchant_success_enabled=1&merchant_return_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fpending%2F&merchant_return_redirect_mode=parent_page&merchant_return_enabled=1&merchant_fail_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Ffail%2F&merchant_fail_redirect_mode=parent_page&merchant_fail_enabled=1&language_code=es&force_payment_method=unify_Binance_Pay&force_acs_new_window=0&customer_id=1630877173&signature=20tS7HWcOAJHVR89Ww4NyogiSoKRkKpYQfwkDAIIuByoRBCFcrTSmPNz4uE8jpcjYFZeDbklBJh%2FlNrg5B9mDw%3D%3D,nfasd63.illongrlong.com,Binance Pay,BINANCE PAY,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Bitcoin,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,https://www.cleopagos.com/?id=9a7af441-5f71-4a94-b4b8-fc236a5a7fa3,cleopagos.com,Cleo,CLEO,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Cripto,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,https://www.cleopagos.com/?id=9a7af441-5f71-4a94-b4b8-fc236a5a7fa3,cleopagos.com,Depósito bancario (Transferencia),,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,https://pmt-01.etpayment.com/session/A519khD7StKXTVsSy9LpFIaXaUvhf5mSoF1kExw7ziZI9hoOfZOefHlEKIBjQd07/login,pmt-01.etpayment.com,ETpay,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,ETpay / Alps,ALPS SPA,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,ETpay / Alps,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,ETpay / Kushki,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,ETpay / Kushki,KUSHKI,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,ETpay / MONNET,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,ETpay / MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Fintoc,FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,"Fintoc, ALPS SPA",FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Flow,FLOW,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Ingresar Débito/Crédito,,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Khipu,KHIPU,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,https://pmt-01.etpayment.com/session/kBU2g5WwNj7XvOxadEVLjBSSY0JOjorZsCKmvSkxHfquZ0Qr0JzKNF36POgyyE45/previous_tnb,pmt-01.etpayment.com,Mach,MACH,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Mifinity,MIFINITY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Muchbetter,MUCHBETTER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Neteller,NETELLER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Pago en efectivo,,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Pago46,PAGO46,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Prontopaga,PRONTOPAGA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Safetypay,SAFETYPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,Skrill,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,https://pay.skrill.com/wallet/checkout?sid=a31a57567eb4ca268f6f86f40c281309,pay.skrill.com,Skrill 1-Tap,SKRILL,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,"Webpay, ALPS SPA",ALPS SPA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,"Webpay, ALPS SPA",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,"Webpay, Kushki",KUSHKI,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,"Webpay, Kushki",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,"Webpay, PK",PK,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,"Webpay, PK",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, PayRetailers",PAYRETAILERS,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, PayRetailers",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Payku",PAYKU,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Payku",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,"Webpay, ProntoPaga",PRONTOPAGA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,1XBET,,,"Webpay, ProntoPaga",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Astropay,ASTROPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Binance Pay,BINANCE PAY,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Bitcoin,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Cleo,CLEO,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Cripto,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Depósito bancario (Transferencia),,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,ETpay,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,ETpay / Alps,ALPS SPA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,ETpay / Alps,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,ETpay / Kushki,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,ETpay / Kushki,KUSHKI,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,ETpay / MONNET,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,ETpay / MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,https://app.payku.cl/gateway/paymentsfintoc,app.payku.cl,Fintoc,FINTOC,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Fintoc, ALPS SPA",FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Flow,FLOW,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Ingresar Débito/Crédito,,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Khipu,KHIPU,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,https://checkout.somosmach.com/payment/36a2085b-8a6e-4350-874a-4d9a8ca5487f?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6Ijc1ZDQxM2M4LTkxOGQtNDVkYi1hNjkwLTg2YWFkYjBiYmEyMCIsImJ1c2luZXNzUGF5bWVudElkIjoiMzZhMjA4NWItOGE2ZS00MzUwLTg3NGEtNGQ5YThjYTU0ODdmIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3NzY4MDEwMzEsImV4cCI6MTc3NjgwMjUzMX0.ItF5Hzxxr0RCBUF9u9FgY2kYxHBNEj9EBGEoJUejpBY,checkout.somosmach.com,Mach,MACH,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Mifinity,MIFINITY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Muchbetter,MUCHBETTER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Neteller,NETELLER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,https://nv.pago46.io/43b6c2d2-0aa7-44cc-968f-2e1e1216a2f8,nv.pago46.io,Pago en efectivo,,cash,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,https://nv.pago46.io/43b6c2d2-0aa7-44cc-968f-2e1e1216a2f8,nv.pago46.io,Pago46,PAGO46,cash,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Prontopaga,PRONTOPAGA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Safetypay,SAFETYPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Skrill,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,Skrill 1-Tap,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Webpay, ALPS SPA",ALPS SPA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Webpay, ALPS SPA",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Webpay, Kushki",KUSHKI,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Webpay, Kushki",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, PK",PK,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, PK",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Webpay, PayRetailers",PAYRETAILERS,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Webpay, PayRetailers",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Webpay, Payku",PAYKU,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Webpay, Payku",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Webpay, ProntoPaga",PRONTOPAGA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,APUESTAS ROYAL,,,"Webpay, ProntoPaga",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Astropay,ASTROPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Binance Pay,BINANCE PAY,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Bitcoin,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Cleo,CLEO,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Cripto,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,https://prontopaga.com/es/payment/PagaConTuBanco/01KPRB51HT9SZJKTDCE7XQGHP8,prontopaga.com,Depósito bancario (Transferencia),,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,ETpay,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,ETpay / Alps,ALPS SPA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,ETpay / Alps,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,ETpay / Kushki,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,ETpay / Kushki,KUSHKI,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,ETpay / MONNET,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,ETpay / MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Fintoc,FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Fintoc, ALPS SPA",FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Flow,FLOW,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,https://lat.betano.com/myaccount/deposit/creditcard,lat.betano.com,Ingresar Débito/Crédito,,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Khipu,KHIPU,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,https://prontopaga.com/es/payment/step2/01KPRAZMK74SB4YR36XWMVDREM,prontopaga.com,Mach,MACH,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Mifinity,MIFINITY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Muchbetter,MUCHBETTER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,https://pay.neteller.com/wallet/checkout/options?sid=724159e1fd74fdc817ddf60241b9ede3,pay.neteller.com,Neteller,NETELLER,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Pago en efectivo,,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Pago46,PAGO46,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Prontopaga,PRONTOPAGA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,Safetypay,SAFETYPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,https://lat.betano.com/myaccount/deposit/skrill,lat.betano.com,Skrill,SKRILL,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,https://lat.betano.com/myaccount/deposit/skrill1tap,lat.betano.com,Skrill 1-Tap,SKRILL,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Webpay, ALPS SPA",ALPS SPA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Webpay, ALPS SPA",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Webpay, Kushki",KUSHKI,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Webpay, Kushki",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Webpay, PK",PK,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Webpay, PK",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Webpay, PayRetailers",PAYRETAILERS,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Webpay, PayRetailers",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Webpay, Payku",PAYKU,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,,,"Webpay, Payku",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, ProntoPaga",PRONTOPAGA,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETANO,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, ProntoPaga",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Astropay,ASTROPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Binance Pay,BINANCE PAY,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Bitcoin,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Cleo,CLEO,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Cripto,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Depósito bancario (Transferencia),,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,ETpay,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,ETpay / Alps,ALPS SPA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,ETpay / Alps,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,ETpay / Kushki,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,ETpay / Kushki,KUSHKI,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,ETpay / MONNET,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,ETpay / MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Fintoc,FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Fintoc, ALPS SPA",FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Flow,FLOW,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,https://www.betsson1001.com/cl/deposito?returnUrl=%2Fcl,betsson1001.com,Ingresar Débito/Crédito,,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,https://checkout.crypta.one/voucher,checkout.crypta.one,Khipu,KHIPU,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,https://www.betsson1001.com/cl/deposito?returnUrl=%2Fcl,betsson1001.com,Mach,MACH,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Mifinity,MIFINITY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Muchbetter,MUCHBETTER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Neteller,NETELLER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Pago en efectivo,,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Pago46,PAGO46,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,https://prontopaga.com/es/payment/PagaConTuBanco/01KPV25T04MZW7HJKFKJF4Y7E8,prontopaga.com,Prontopaga,PRONTOPAGA,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Safetypay,SAFETYPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Skrill,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,Skrill 1-Tap,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Webpay, ALPS SPA",ALPS SPA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Webpay, ALPS SPA",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Kushki",KUSHKI,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Kushki",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Webpay, PK",PK,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Webpay, PK",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Webpay, PayRetailers",PAYRETAILERS,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Webpay, PayRetailers",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Webpay, Payku",PAYKU,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Webpay, Payku",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Webpay, ProntoPaga",PRONTOPAGA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,BETSSON,,,"Webpay, ProntoPaga",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,https://onetouch.astropay.com/deposit/auth/vf5BKLgfSP43X1Ah6BR9FLeIuadftuZNGCWLjR1P,onetouch.astropay.com,Astropay,ASTROPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Binance Pay,BINANCE PAY,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Bitcoin,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,https://www.cleopagos.com/?id=38b85d20-f0e7-4ba8-b380-cd3154d9c010,cleopagos.com,Cleo,CLEO,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Cripto,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Depósito bancario (Transferencia),,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,https://pmt-01.etpayment.com/session/KzJiKiXN6zUGFknLEyAVTyJlk53AEBfPqgaZpL3D7BdATecFLkqKs6DtSCIhWqdi/login,pmt-01.etpayment.com,ETpay,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,https://pmt-alps.etpayment.com/session/lKKOyOFw1mijHTaZbJBQmZVQ685ioHzDIrqUQD9vAMEwwNg5mej7ogHW1aF9bsDR,pmt-alps.etpayment.com,ETpay / Alps,ALPS SPA,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,https://pmt-alps.etpayment.com/session/lKKOyOFw1mijHTaZbJBQmZVQ685ioHzDIrqUQD9vAMEwwNg5mej7ogHW1aF9bsDR,pmt-alps.etpayment.com,ETpay / Alps,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,ETpay / Kushki,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,ETpay / Kushki,KUSHKI,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,ETpay / MONNET,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,ETpay / MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Fintoc,FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Fintoc, ALPS SPA",FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Flow,FLOW,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,https://www.ipg-online.com/connect/payment/paymentSelection;jsessionid=BAC824A109625F0161EF?t=active&r=dc&k=MTcyLjI5LjE5OS4xNDA6ODg0Mw,ipg-online.com,Ingresar Débito/Crédito,,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Khipu,KHIPU,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,https://prontopaga.com/es/payment/step2/01KPRCD81X22FNCS1Z9K5KA7YC,prontopaga.com,Mach,MACH,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Mifinity,MIFINITY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Muchbetter,MUCHBETTER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Neteller,NETELLER,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Pago en efectivo,,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Pago46,PAGO46,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Prontopaga,PRONTOPAGA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Safetypay,SAFETYPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,https://pay.skrill.com/wallet/checkout/options?sid=869bbfd12a7b78ba22445da4b3ec12d1,pay.skrill.com,Skrill,SKRILL,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,Skrill 1-Tap,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, ALPS SPA",ALPS SPA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, ALPS SPA",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, Kushki",KUSHKI,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, Kushki",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, PK",PK,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, PK",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, PayRetailers",PAYRETAILERS,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, PayRetailers",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, Payku",PAYKU,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, Payku",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, ProntoPaga",PRONTOPAGA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,COOLBET,,,"Webpay, ProntoPaga",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Astropay,ASTROPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Binance Pay,BINANCE PAY,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,https://changellywidget.banxa.com/?expires=1776878253&id=ded9348f-58d8-40bd-a615-e64dfb25eb26&oid=019db63189b67957945750a65eb3a771&signature=7aa7916f0153507df9b48d1b269ac11d586fa71cd629d73775f0b14d657ae128,changellywidget.banxa.com,Bitcoin,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Cleo,CLEO,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,https://changellywidget.banxa.com/?expires=1776878253&id=ded9348f-58d8-40bd-a615-e64dfb25eb26&oid=019db63189b67957945750a65eb3a771&signature=7aa7916f0153507df9b48d1b269ac11d586fa71cd629d73775f0b14d657ae128,changellywidget.banxa.com,Cripto,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Depósito bancario (Transferencia),,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,https://pmt-01.etpayment.com/session/zQu9ctmPdoYn6wsOp8Mv2CsYqIKgLhTZ3QLXXCgxkVkLGb2TaPFoxpOAyhTXmXHT/login,pmt-01.etpayment.com,ETpay,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,ETpay / Alps,ALPS SPA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,ETpay / Alps,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,ETpay / Kushki,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,ETpay / Kushki,KUSHKI,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,https://pmt-01.etpayment.com/session/Jm0UCBAkrIkmnXNE6bm2SjIsmb9Ym0kCbmKPl5HXTtCdZbMGGHWmy1eTAA77nVfR/login,pmt-01.etpayment.com,ETpay / MONNET,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,https://pmt-01.etpayment.com/session/Jm0UCBAkrIkmnXNE6bm2SjIsmb9Ym0kCbmKPl5HXTtCdZbMGGHWmy1eTAA77nVfR/login,pmt-01.etpayment.com,ETpay / MONNET,MONNET,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Fintoc,FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Fintoc, ALPS SPA",FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Flow,FLOW,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Ingresar Débito/Crédito,,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Khipu,KHIPU,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,https://apiin.monnetpayments.com/ms-multiprocessor/ux/operation/5e799de7-6868-4bb1-b9c6-e62273513a95,apiin.monnetpayments.com,MONNET,MONNET,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,https://checkout.somosmach.com/payment/710238a6-9ffb-4a91-90e3-9b16ac76ce4e?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6ImI4YzAzZWEzLTY2YzktNDM3Yy1iMWQ0LWI3ZTE2MWYxMTg5NiIsImJ1c2luZXNzUGF5bWVudElkIjoiNzEwMjM4YTYtOWZmYi00YTkxLTkwZTMtOWIxNmFjNzZjZTRlIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3NzY4MDQxMzUsImV4cCI6MTc3NjgwNTYzNX0.vVnGOejyxeh3BIsfQDOCmRTf6QalQ3yhb1WYa7FpxT4,checkout.somosmach.com,Mach,MACH,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Mifinity,MIFINITY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Muchbetter,MUCHBETTER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Neteller,NETELLER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Pago en efectivo,,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Pago46,PAGO46,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Prontopaga,PRONTOPAGA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Safetypay,SAFETYPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,https://pay.skrill.com/wallet/checkout/options?sid=3acce697ecabd15268e091782a94d823,pay.skrill.com,Skrill,SKRILL,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,Skrill 1-Tap,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Webpay, ALPS SPA",ALPS SPA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Webpay, ALPS SPA",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Kushki",KUSHKI,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Kushki",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Webpay, PK",PK,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Webpay, PK",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Webpay, PayRetailers",PAYRETAILERS,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Webpay, PayRetailers",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Webpay, Payku",PAYKU,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Webpay, Payku",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Webpay, ProntoPaga",PRONTOPAGA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,EPICBET,,,"Webpay, ProntoPaga",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,https://onetouch.astropay.com/v2/deposit/4mBx4DILny1b5AkGYpSDFMctIjLuQCszogzv1xpH?,onetouch.astropay.com,Astropay,ASTROPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Binance Pay,BINANCE PAY,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,https://jugabet.cl/deposit,jugabet.cl,Bitcoin,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Cleo,CLEO,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Cripto,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Depósito bancario (Transferencia),,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,https://pmt-01.etpayment.com/session/1OLowDWEUFJ6rkjyYMPAyeEsunce3WqogHeEZvEFXfmJbYzvAHh34Ux2uZWel4a5/login,pmt-01.etpayment.com,ETpay,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,ETpay / Alps,ALPS SPA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,ETpay / Alps,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,ETpay / Kushki,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,ETpay / Kushki,KUSHKI,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,ETpay / MONNET,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,ETpay / MONNET,MONNET,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Fintoc,FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Fintoc, ALPS SPA",FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Flow,FLOW,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Ingresar Débito/Crédito,,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Khipu,KHIPU,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,https://prontopaga.com/es/payment/step2/01KPRB7XNKY2WSZBQE1KR0KQ3Q,prontopaga.com,Mach,MACH,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Mifinity,MIFINITY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Muchbetter,MUCHBETTER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Neteller,NETELLER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Pago en efectivo,,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Pago46,PAGO46,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Prontopaga,PRONTOPAGA,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Safetypay,SAFETYPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Skrill,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,Skrill 1-Tap,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Webpay, ALPS SPA",ALPS SPA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Webpay, ALPS SPA",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Kushki",KUSHKI,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Kushki",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Webpay, PK",PK,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Webpay, PK",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Webpay, PayRetailers",PAYRETAILERS,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Webpay, PayRetailers",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Webpay, Payku",PAYKU,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Webpay, Payku",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Webpay, ProntoPaga",PRONTOPAGA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,JUGABET,,,"Webpay, ProntoPaga",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Astropay,ASTROPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Binance Pay,BINANCE PAY,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Bitcoin,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Cleo,CLEO,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Cripto,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,Depósito bancario (Transferencia),,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,ETpay,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,ETpay / Alps,ALPS SPA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,ETpay / Alps,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,ETpay / Kushki,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,ETpay / Kushki,KUSHKI,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,ETpay / MONNET,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,ETpay / MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Fintoc,FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Fintoc, ALPS SPA",FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,https://www.flow.cl/app/web/pay.php?token=1E6F23616EF88D1222057E0AD9411121FC4FF24J,flow.cl,Flow,FLOW,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Ingresar Débito/Crédito,,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Khipu,KHIPU,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Mach,MACH,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Mifinity,MIFINITY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Muchbetter,MUCHBETTER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Neteller,NETELLER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Pago en efectivo,,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Pago46,PAGO46,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Prontopaga,PRONTOPAGA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Safetypay,SAFETYPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Skrill,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,Skrill 1-Tap,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, ALPS SPA",ALPS SPA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, ALPS SPA",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, Kushki",KUSHKI,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, Kushki",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, PK",PK,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, PK",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, PayRetailers",PAYRETAILERS,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, PayRetailers",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, Payku",PAYKU,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, Payku",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, ProntoPaga",PRONTOPAGA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,LATAMWIN,,,"Webpay, ProntoPaga",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Astropay,ASTROPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Binance Pay,BINANCE PAY,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Bitcoin,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Cleo,CLEO,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Cripto,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://micasinoenvivo.com/#,micasinoenvivo.com,Depósito bancario (Transferencia),,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,ETpay,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://pmt-alps.etpayment.com/session/kNYaLlDN0UrCvg5upHtdbiVclQmewReB76bb2DRmX4f1JEqFjSn07ZiQr0SXUy7y,pmt-alps.etpayment.com,ETpay / Alps,ALPS SPA,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://pmt-alps.etpayment.com/session/kNYaLlDN0UrCvg5upHtdbiVclQmewReB76bb2DRmX4f1JEqFjSn07ZiQr0SXUy7y,pmt-alps.etpayment.com,ETpay / Alps,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,ETpay / Kushki,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,ETpay / Kushki,KUSHKI,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,ETpay / MONNET,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,ETpay / MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Fintoc,FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://payments.alps.cl/justpay/check-out/?channel=online-fintoc&tokenID=LKE4K8p6WXM1bHgYbvKc6z7iw7YLWIad2eMTlv5E&alps=1,payments.alps.cl,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://payments.alps.cl/justpay/check-out/?channel=online-fintoc&tokenID=LKE4K8p6WXM1bHgYbvKc6z7iw7YLWIad2eMTlv5E&alps=1,payments.alps.cl,"Fintoc, ALPS SPA",FINTOC,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Flow,FLOW,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Ingresar Débito/Crédito,,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Khipu,KHIPU,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://apiin.monnetpayments.com/ms-multiprocessor/ux/operation/872e026e-23c5-479e-9043-6356e39b59a6,apiin.monnetpayments.com,MONNET,MONNET,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://checkout.somosmach.com/payment/098dd30e-a114-4dc3-95a7-90a89f9331c9?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6Ijk0ZDkzZDM0LTQyNzItNGIwYy1hMjExLTNjZmE3YjM4NGJhOSIsImJ1c2luZXNzUGF5bWVudElkIjoiMDk4ZGQzMGUtYTExNC00ZGMzLTk1YTctOTBhODlmOTMzMWM5Iiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3NzY4MDEzOTMsImV4cCI6MTc3NjgwMjg5M30.Kc7EvpXIokYd1xnBY0XMNA9tyed0TKk0KnXCcJcIYAw,checkout.somosmach.com,Mach,MACH,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Mifinity,MIFINITY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Muchbetter,MUCHBETTER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Neteller,NETELLER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://micasinoenvivo.com/#,micasinoenvivo.com,Pago en efectivo,,cash,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Pago46,PAGO46,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Prontopaga,PRONTOPAGA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://gateway.safetypay.com/Express4/Checkout/index?TokenID=6ca55346-f480-41ab-88b9-406f0769cc6d,gateway.safetypay.com,Safetypay,SAFETYPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Skrill,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,Skrill 1-Tap,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, ALPS SPA",ALPS SPA,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, ALPS SPA",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Kushki",KUSHKI,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Kushki",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,"Webpay, PK",PK,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,"Webpay, PK",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,"Webpay, PayRetailers",PAYRETAILERS,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,"Webpay, PayRetailers",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,"Webpay, Payku",PAYKU,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,"Webpay, Payku",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,"Webpay, ProntoPaga",PRONTOPAGA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,MI CASINO,,,"Webpay, ProntoPaga",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,https://secure.safecharge.com/ppp/purchase.do?merchant_id=8552619114233089123&merchant_site_id=202128&total_amount=100000.0&currency=CLP&country=CL&user_token_id=1494018979459633152&item_name_1=1496236044630228992&item_amount_1=100000.0&item_quantity_1=1&time_stamp=20260421194751&version=4.0.0&payment_method=apmgw_AstroPay&payment_method_mode=filter&merchantLocale=es_CL&merchant_unique_id=1496236044630228992&email=valesaavedra4@gmail.com&customField1=CL&customField2=NoviCL&notify_url=https://safecharge.apinovi.com/api/webhook&success_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&error_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&pending_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&parent_url=https://cl.novibet.com/useraccount/deposit&phone1=0056975700775&back_url=https://cl.novibet.com/useraccount/deposit&first_name=Valentina&last_name=Saavedra%20Sanhueza&city=Pudahuel&state=&zip=9020000&dateOfBirth=2000-05-20&address1=Pasaje%20Isla%20Owen&encoding=UTF-8&checksum=ff24356f2e57a26a59c21193e48c41128f0f2b04bce48e1f93a37d5d5f3844ca,secure.safecharge.com,Astropay,ASTROPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Binance Pay,BINANCE PAY,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Bitcoin,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Cleo,CLEO,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Cripto,,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,https://gateway.safetypay.com/Express4/Checkout/index?TokenID=372fad06-bba9-44b8-bee1-7d561f4f9ce8&CountryID=CHL&ChannelID=ONLINE,gateway.safetypay.com,Depósito bancario (Transferencia),,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,ETpay,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,ETpay / Alps,ALPS SPA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,ETpay / Alps,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,ETpay / Kushki,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,ETpay / Kushki,KUSHKI,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,ETpay / MONNET,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,ETpay / MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,https://gateway.safetypay.com/Express4/Checkout/index?TokenID=830bbd2f-5cd7-499e-96ac-1c05cdb7b075&CountryID=CHL&ChannelID=CASH,gateway.safetypay.com,Fintoc,FINTOC,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Fintoc, ALPS SPA",FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Flow,FLOW,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Ingresar Débito/Crédito,,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Khipu,KHIPU,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Mach,MACH,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Mifinity,MIFINITY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Muchbetter,MUCHBETTER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,https://pay.neteller.com/wallet/checkout/options?sid=bd8710dbaf504bdbfe3e621736ec4fdc,pay.neteller.com,Neteller,NETELLER,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Pago en efectivo,,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Pago46,PAGO46,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,Prontopaga,PRONTOPAGA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,https://gateway.safetypay.com/Express4/Checkout/index?TokenID=fad28fe8-3ddc-4c50-b614-8efe5fd7bf92&CountryID=CHL&ChannelID=CASH,gateway.safetypay.com,Safetypay,SAFETYPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,https://pay.skrill.com/wallet/checkout/options/suggest-confirmation/type?sid=8a6738b75d000afc71761d1094d0f906,pay.skrill.com,Skrill,SKRILL,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,https://pay.skrill.com/wallet/checkout/options/login?sid=2221a644066934df6ca9d5138978a16f,pay.skrill.com,Skrill 1-Tap,SKRILL,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Webpay, ALPS SPA",ALPS SPA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Webpay, ALPS SPA",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Webpay, Kushki",KUSHKI,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Webpay, Kushki",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Webpay, PK",PK,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Webpay, PK",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Webpay, PayRetailers",PAYRETAILERS,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Webpay, PayRetailers",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Webpay, Payku",PAYKU,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,,,"Webpay, Payku",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, ProntoPaga",PRONTOPAGA,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,NOVIBET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, ProntoPaga",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,https://onetouch.astropay.com/deposit/init/SpvpZW6cMB9LQhcT36ezeRP9LRcAtnz6iiFJ4WXY,onetouch.astropay.com,Astropay,ASTROPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Binance Pay,BINANCE PAY,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Bitcoin,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,https://rojabet.com/es-es,rojabet.com,Cleo,CLEO,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Cripto,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Depósito bancario (Transferencia),,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,ETpay,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,ETpay / Alps,ALPS SPA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,ETpay / Alps,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,ETpay / Kushki,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,ETpay / Kushki,KUSHKI,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,https://rojabet.com/es-es,rojabet.com,ETpay / MONNET,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,https://rojabet.com/es-es,rojabet.com,ETpay / MONNET,MONNET,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Fintoc,FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Fintoc, ALPS SPA",FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Flow,FLOW,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Ingresar Débito/Crédito,,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Khipu,KHIPU,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,https://rojabet.com/es-es,rojabet.com,Mach,MACH,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Mifinity,MIFINITY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Muchbetter,MUCHBETTER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Neteller,NETELLER,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Pago en efectivo,,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Pago46,PAGO46,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Prontopaga,PRONTOPAGA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Safetypay,SAFETYPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Skrill,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,Skrill 1-Tap,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Webpay, ALPS SPA",ALPS SPA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Webpay, ALPS SPA",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Kushki",KUSHKI,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, Kushki",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Webpay, PK",PK,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Webpay, PK",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Webpay, PayRetailers",PAYRETAILERS,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Webpay, PayRetailers",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Webpay, Payku",PAYKU,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Webpay, Payku",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Webpay, ProntoPaga",PRONTOPAGA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,ROJABET,,,"Webpay, ProntoPaga",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Astropay,ASTROPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Binance Pay,BINANCE PAY,crypto,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Bitcoin,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Cleo,CLEO,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Cripto,,crypto,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Depósito bancario (Transferencia),,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,https://pmt-01.etpayment.com/session/fcGWYOlZe1FdZGj2Z8BUIU9q5ZQMPgbf3vxCFwehOWGqwCb5Z2GmH6gyWogQqfeD/login,pmt-01.etpayment.com,ETpay,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,https://pmt-alps.etpayment.com/session/fTXn0PNqO1n4grQ2iHSOihEdBThVVwSme1YatkHJiH3LW90QNSy3XLgncDJzJ4zf,pmt-alps.etpayment.com,ETpay / Alps,ALPS SPA,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,https://pmt-alps.etpayment.com/session/fTXn0PNqO1n4grQ2iHSOihEdBThVVwSme1YatkHJiH3LW90QNSy3XLgncDJzJ4zf,pmt-alps.etpayment.com,ETpay / Alps,ETPAY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,ETpay / Kushki,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,ETpay / Kushki,KUSHKI,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,ETpay / MONNET,ETPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,ETpay / MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,https://payments.alps.cl/justpay/check-out/?channel=online-fintoc&tokenID=cYvHiLuiIbouxaLOwSOMVSahLYWpZlNnTD5OMxuQ&alps=1,payments.alps.cl,Fintoc,FINTOC,bank_transfer,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Fintoc, ALPS SPA",ALPS SPA,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Fintoc, ALPS SPA",FINTOC,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Flow,FLOW,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Ingresar Débito/Crédito,,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Khipu,KHIPU,bank_transfer,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,MONNET,MONNET,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,https://gateway.safetypay.com/Express4/Checkout/index?TokenID=3f950bf1-7b21-45ff-a9cf-af0efa197f0a,gateway.safetypay.com,Mach,MACH,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,https://api.paymentiq.io/paymentiq/api/piq-redirect-assistance/1e588eb7-002e-40a4-b178-6411d839900e,api.paymentiq.io,Mifinity,MIFINITY,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Muchbetter,MUCHBETTER,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Neteller,NETELLER,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Pago en efectivo,,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Pago46,PAGO46,cash,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Prontopaga,PRONTOPAGA,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Safetypay,SAFETYPAY,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,https://pay.skrill.com/wallet/checkout?sid=0fb5848b5e8075bf2abaa1782f225a39,pay.skrill.com,Skrill,SKRILL,wallet_or_psp,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,Skrill 1-Tap,SKRILL,wallet_or_psp,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, ALPS SPA",ALPS SPA,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,https://webpay3g.transbank.cl/webpayserver/dist/#/,webpay3g.transbank.cl,"Webpay, ALPS SPA",WEBPAY,card,true,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Webpay, Kushki",KUSHKI,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Webpay, Kushki",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Webpay, PK",PK,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Webpay, PK",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Webpay, PayRetailers",PAYRETAILERS,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Webpay, PayRetailers",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Webpay, Payku",PAYKU,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Webpay, Payku",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Webpay, ProntoPaga",PRONTOPAGA,card,false,Casas de apuestas levantamiento.xlsx,Hoja1
+2026-04-14,TONYBET,,,"Webpay, ProntoPaga",WEBPAY,card,false,Casas de apuestas levantamiento.xlsx,Hoja1

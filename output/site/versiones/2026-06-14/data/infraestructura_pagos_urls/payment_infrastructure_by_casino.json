@@ -1,0 +1,644 @@
+{
+  "title": "Pasarelas, medios de pago y URLs por casino monitoreado",
+  "source_file": "Levantamiento casas de apuestas 29-04.xlsx",
+  "source_sheet": "Hoja1",
+  "periods": [
+    "2026-04-14",
+    "2026-04-23",
+    "2026-04-29"
+  ],
+  "brand_count": 12,
+  "profiles": [
+    {
+      "brand_name": "1XBET",
+      "payment_processors": [
+        "ASTROPAY",
+        "BINANCE PAY",
+        "CLEO",
+        "ETPAY",
+        "KUSHKI",
+        "MACH",
+        "PAYRETAILERS",
+        "SKRILL",
+        "WEBPAY"
+      ],
+      "payment_labels": [
+        "Astropay",
+        "Binance Pay",
+        "Cleo",
+        "Cripto",
+        "ETpay",
+        "Mach",
+        "Skrill 1-Tap",
+        "Webpay, Kushki",
+        "Webpay, PayRetailers"
+      ],
+      "payment_methods": [
+        "card",
+        "crypto",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "cleopagos.com",
+        "nfasd63.illongrlong.com",
+        "pay.skrill.com",
+        "pmt-01.etpayment.com",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://nfasd63.illongrlong.com/payment?project_id=148266&redirect_return_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fpending%2F&redirect_success_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fsuccess%2F&redirect_fail_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Ffail%2F&redirect_success_mode=parent_page&redirect_fail_mode=parent_page&redirect=1&payment_id=21417134705&payment_description=Account+deposit+1630877173&payment_currency=USD&payment_amount=150&mode=purchase&merchant_success_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fsuccess%2F&merchant_success_redirect_mode=parent_page&merchant_success_enabled=1&merchant_return_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Fpending%2F&merchant_return_redirect_mode=parent_page&merchant_return_enabled=1&merchant_fail_url=https%3A%2F%2Fchile.1xbet.com%2Fonpay%2Ffail%2F&merchant_fail_redirect_mode=parent_page&merchant_fail_enabled=1&language_code=es&force_payment_method=unify_Binance_Pay&force_acs_new_window=0&customer_id=1630877173&signature=Mw59m0lAb1uh8ORfnXjSzZxo06u5k0nnHzzzx3%2BKlx%2F36H2qG%2Bg1y2jirVVBJs9%2Bi67dHN8%2BHohLnYYinEmeWw%3D%3D",
+        "https://pay.skrill.com/wallet/checkout/options?sid=e3ce5928ca43437b7dc05e7ccc45659a",
+        "https://pmt-01.etpayment.com/session/PVqJcBFvaw8Eq4bSm1Ns14g6B4cC05cPwxyrwqrCApx9jerrd2tBDFlUh38zkJsy/login",
+        "https://pmt-01.etpayment.com/session/aFEe79YgvNKJcdruUQqOba2f3xF4oinPgs0ST7Kn3RJyRhfY3bKUkbXYJQeolJDA/previous_tnb",
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/",
+        "https://www.cleopagos.com/?id=31aaf1b4-22a5-4cb6-8cc0-175243006c17"
+      ],
+      "brand_site_domains": [],
+      "brand_site_urls": [],
+      "primary_brand_domain": "1xbet.cl",
+      "processor_count": 9,
+      "payment_label_count": 9,
+      "payment_method_count": 3,
+      "domain_count": 5,
+      "url_count": 6
+    },
+    {
+      "brand_name": "APUESTAS ROYAL",
+      "payment_processors": [
+        "BINANCE PAY",
+        "FINTOC",
+        "KHIPU",
+        "MACH",
+        "PAGO46",
+        "PK",
+        "WEBPAY"
+      ],
+      "payment_labels": [
+        "Binance Pay",
+        "Dep\u00f3sito bancario (Transferencia)",
+        "Fintoc",
+        "Khipu",
+        "Mach",
+        "Pago en efectivo",
+        "Pago46",
+        "Webpay, PK"
+      ],
+      "payment_methods": [
+        "bank_transfer",
+        "card",
+        "cash",
+        "crypto",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "app.payku.cl",
+        "checkout.somosmach.com",
+        "nv.pago46.io",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://app.payku.cl/gateway/paymentsfintoc",
+        "https://checkout.somosmach.com/payment/0a0e0097-b512-410b-8ae9-7e353b858dd6?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6Ijc1ZDQxM2M4LTkxOGQtNDVkYi1hNjkwLTg2YWFkYjBiYmEyMCIsImJ1c2luZXNzUGF5bWVudElkIjoiMGEwZTAwOTctYjUxMi00MTBiLThhZTktN2UzNTNiODU4ZGQ2Iiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3Nzc1NTkyNDMsImV4cCI6MTc3NzU2MDc0M30.hlW9SWPhvjqNq5oiN0zpJIOUvoq2hsJT4xTHs2Za9mI",
+        "https://nv.pago46.io/a2e2dfb0-ee39-4a0e-9717-ebb1d217d04a",
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/"
+      ],
+      "brand_site_domains": [],
+      "brand_site_urls": [],
+      "primary_brand_domain": "apuestasroyal.com",
+      "processor_count": 7,
+      "payment_label_count": 8,
+      "payment_method_count": 5,
+      "domain_count": 4,
+      "url_count": 4
+    },
+    {
+      "brand_name": "BETANO",
+      "payment_processors": [
+        "MACH",
+        "NETELLER",
+        "PRONTOPAGA",
+        "SKRILL",
+        "WEBPAY"
+      ],
+      "payment_labels": [
+        "Cripto",
+        "Dep\u00f3sito bancario (Transferencia)",
+        "Mach",
+        "Neteller",
+        "Prontopaga",
+        "Skrill",
+        "Skrill 1-Tap",
+        "Webpay, ProntoPaga"
+      ],
+      "payment_methods": [
+        "bank_transfer",
+        "card",
+        "crypto",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "lat.betano.com",
+        "pay.neteller.com",
+        "prontopaga.com",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://lat.betano.com/myaccount/deposit/skrill",
+        "https://pay.neteller.com/wallet/checkout/options?sid=2612623cc9cfab6735bfbe280152b48e",
+        "https://prontopaga.com/es/payment/PagaConTuBanco/01KQDDAQRGTG8M3MJ2RG20AXYE",
+        "https://prontopaga.com/es/payment/step2/01KQDD3AQ7HYQFZSG8M9AXVTCX",
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/"
+      ],
+      "brand_site_domains": [
+        "betano.com"
+      ],
+      "brand_site_urls": [
+        "https://lat.betano.com/myaccount/deposit/skrill"
+      ],
+      "primary_brand_domain": "betano.com",
+      "processor_count": 5,
+      "payment_label_count": 8,
+      "payment_method_count": 4,
+      "domain_count": 4,
+      "url_count": 5
+    },
+    {
+      "brand_name": "BETSSON",
+      "payment_processors": [
+        "KHIPU",
+        "MACH",
+        "PRONTOPAGA",
+        "WEBPAY"
+      ],
+      "payment_labels": [
+        "Ingresar D\u00e9bito/Cr\u00e9dito",
+        "Khipu",
+        "Mach",
+        "Prontopaga",
+        "Webpay, ProntoPaga"
+      ],
+      "payment_methods": [
+        "bank_transfer",
+        "card",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "betsson1001.com",
+        "checkout.crypta.one",
+        "prontopaga.com",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://checkout.crypta.one/voucher",
+        "https://prontopaga.com/es/payment/PagaConTuBanco/01KQDK08SSSHJ1CFW01KN4ZCXS",
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/",
+        "https://www.betsson1001.com/cl/deposito?returnUrl=%2Fcl"
+      ],
+      "brand_site_domains": [
+        "betsson1001.com"
+      ],
+      "brand_site_urls": [
+        "https://www.betsson1001.com/cl/deposito?returnUrl=%2Fcl"
+      ],
+      "primary_brand_domain": "betssonchile.cl",
+      "processor_count": 4,
+      "payment_label_count": 5,
+      "payment_method_count": 3,
+      "domain_count": 4,
+      "url_count": 4
+    },
+    {
+      "brand_name": "COOLBET",
+      "payment_processors": [
+        "ALPS SPA",
+        "ASTROPAY",
+        "CLEO",
+        "ETPAY",
+        "KUSHKI",
+        "MACH",
+        "NETELLER",
+        "SKRILL",
+        "WEBPAY"
+      ],
+      "payment_labels": [
+        "Astropay",
+        "Bitcoin",
+        "Cleo",
+        "ETpay",
+        "ETpay / Alps",
+        "Ingresar D\u00e9bito/Cr\u00e9dito",
+        "Mach",
+        "Neteller",
+        "Skrill",
+        "Webpay, Kushki"
+      ],
+      "payment_methods": [
+        "card",
+        "crypto",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "cleopagos.com",
+        "ipg-online.com",
+        "onetouch.astropay.com",
+        "pay.skrill.com",
+        "pmt-01.etpayment.com",
+        "pmt-alps.etpayment.com",
+        "prontopaga.com",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://onetouch.astropay.com/deposit/auth/dMsm1SeJcuUmY3IlB63EXyuvzBgd2W5f01XQYx4X",
+        "https://pay.skrill.com/wallet/checkout/options?sid=e5d4f838ec99e9348d9a7b43e447d28d",
+        "https://pmt-01.etpayment.com/session/Rp6pJzg6dxwBTuZ3Y4HeD9BiAdu9ZXJbarSaNYAbOPedhBmglFKvS9GRWY14N4K0",
+        "https://pmt-alps.etpayment.com/session/aQcdZltr3KJzBUPKD13Bpg6aLP3PtU0UnPTjXxM3xhcysv5Ebyya8q2DPbDp9aOI",
+        "https://prontopaga.com/es/payment/step2/01KQDEMRWNV1CT6KF0RFX9728B",
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/",
+        "https://www.cleopagos.com/?id=aa0d1fd2-9160-4a9f-88c5-0edb980cbc00",
+        "https://www.ipg-online.com/connect/payment/paymentSelection;jsessionid=0C8ED3DC82FECA4D6306?t=active&r=dc&k=MTcyLjI5LjU5LjcxOjg4NDM"
+      ],
+      "brand_site_domains": [],
+      "brand_site_urls": [],
+      "primary_brand_domain": "coolbet.com",
+      "processor_count": 9,
+      "payment_label_count": 10,
+      "payment_method_count": 3,
+      "domain_count": 8,
+      "url_count": 8
+    },
+    {
+      "brand_name": "EPICBET",
+      "payment_processors": [
+        "ETPAY",
+        "KUSHKI",
+        "MACH",
+        "MONNET",
+        "SKRILL",
+        "WEBPAY"
+      ],
+      "payment_labels": [
+        "Bitcoin",
+        "Cripto",
+        "ETpay",
+        "MONNET",
+        "Mach",
+        "Skrill",
+        "Webpay, Kushki"
+      ],
+      "payment_methods": [
+        "card",
+        "crypto",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "apiin.monnetpayments.com",
+        "changellywidget.banxa.com",
+        "checkout.somosmach.com",
+        "pay.skrill.com",
+        "pmt-01.etpayment.com",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://apiin.monnetpayments.com/ms-multiprocessor/ux/operation/8e48f790-37cb-45fd-861a-820eacf0ae6e",
+        "https://changellywidget.banxa.com/?expires=1777563192&id=a6d6ecd1-76d9-41a5-b447-8a889ff40c86&oid=019ddf04e2bf7ae4814a225b775ffa13&signature=331075a5d3a2482253658c91b94e2c68f9ebd685f5d5cb6e64303e52e008074c",
+        "https://changellywidget.banxa.com/?expires=1777563410&id=bc77bce5-4b5e-44f1-95f7-db77478835ae&oid=019ddf0834f579a4aefe7c8e0af6ba1c&signature=35024c0fb5fdfb83ad14a19d017ea0dd9d970cf8c1fe5268d364edeb2a7ba4f8",
+        "https://checkout.somosmach.com/payment/1ce2f70c-8d9e-4546-a821-9837383c538c?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6ImI4YzAzZWEzLTY2YzktNDM3Yy1iMWQ0LWI3ZTE2MWYxMTg5NiIsImJ1c2luZXNzUGF5bWVudElkIjoiMWNlMmY3MGMtOGQ5ZS00NTQ2LWE4MjEtOTgzNzM4M2M1MzhjIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3Nzc1NjMwOTMsImV4cCI6MTc3NzU2NDU5M30.zuOPt7Mv4c9pPjEvhvSnIaMDIUtFRef3dqietwXGmR0",
+        "https://pay.skrill.com/wallet/checkout?sid=b6552be81e0181535d5faeec62505837",
+        "https://pmt-01.etpayment.com/session/S6RGnFlOLJCRGzjGWiHuFFIB6sBO0dhkTij36sprcTp8NBMU6erYJSbEWeRr8w3L",
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/"
+      ],
+      "brand_site_domains": [],
+      "brand_site_urls": [],
+      "primary_brand_domain": "epicbet.io",
+      "processor_count": 6,
+      "payment_label_count": 7,
+      "payment_method_count": 3,
+      "domain_count": 6,
+      "url_count": 7
+    },
+    {
+      "brand_name": "JUGABET",
+      "payment_processors": [
+        "ASTROPAY",
+        "BINANCE PAY",
+        "CLEO",
+        "ETPAY",
+        "KUSHKI",
+        "MACH",
+        "MONNET",
+        "PRONTOPAGA",
+        "WEBPAY"
+      ],
+      "payment_labels": [
+        "Astropay",
+        "Binance Pay",
+        "Bitcoin",
+        "Cleo",
+        "ETpay",
+        "ETpay / MONNET",
+        "Mach",
+        "Prontopaga",
+        "Webpay, Kushki"
+      ],
+      "payment_methods": [
+        "card",
+        "crypto",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "checkout.somosmach.com",
+        "cleopagos.com",
+        "jugabet.cl",
+        "onetouch.astropay.com",
+        "pay2.cryptonbtc.com",
+        "pmt-01.etpayment.com",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://checkout.somosmach.com/payment/97e0f6e0-5265-4882-a0fc-5eb4f06fa37a?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6ImI4YzAzZWEzLTY2YzktNDM3Yy1iMWQ0LWI3ZTE2MWYxMTg5NiIsImJ1c2luZXNzUGF5bWVudElkIjoiOTdlMGY2ZTAtNTI2NS00ODgyLWEwZmMtNWViNGYwNmZhMzdhIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3Nzc0OTMyMjEsImV4cCI6MTc3NzQ5NDcyMX0.sN4pfdVCvgx7cb0LKv-a8TR48SSRl3ed_Q5GUN_FQHc",
+        "https://jugabet.cl/deposit",
+        "https://onetouch.astropay.com/deposit/NlTIqMsoIfiru4lH0HIS4rG1avyP9gclTHyAbWgO",
+        "https://pay2.cryptonbtc.com/public/binance/qr_code/es/507dfc7e-4407-11f1-99b0-ee7a389d9ef8?max_contract_limit=300&contract_limit=0&need_confirmation=True",
+        "https://pmt-01.etpayment.com/session/Y1T211BV8F84Yt6HJD8ZgrgzvKXLokN4KqdqpMQcAYiMj7fHVbgJ7ZGXRxtWkpy7/login",
+        "https://pmt-01.etpayment.com/session/rODd0nPPtSDk9Ix8gQQ0yXdLexvgKKahdQe9Ru5NRIhmF4npeTokul3dMuEDtQar/login",
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/",
+        "https://www.cleopagos.com/?id=4d6e179b-be90-4f57-9f6c-74810549d627"
+      ],
+      "brand_site_domains": [
+        "jugabet.cl"
+      ],
+      "brand_site_urls": [
+        "https://jugabet.cl/deposit"
+      ],
+      "primary_brand_domain": "jugabet.cl",
+      "processor_count": 9,
+      "payment_label_count": 9,
+      "payment_method_count": 3,
+      "domain_count": 7,
+      "url_count": 8
+    },
+    {
+      "brand_name": "LATAMWIN",
+      "payment_processors": [
+        "FLOW"
+      ],
+      "payment_labels": [
+        "Dep\u00f3sito bancario (Transferencia)",
+        "Flow"
+      ],
+      "payment_methods": [
+        "bank_transfer",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "flow.cl",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/",
+        "https://www.flow.cl/app/web/pay.php?token=0A7D60BBA66BA152DF3869F8CB5DEDC04E1D357Q"
+      ],
+      "brand_site_domains": [],
+      "brand_site_urls": [],
+      "primary_brand_domain": "latamwin.online",
+      "processor_count": 1,
+      "payment_label_count": 2,
+      "payment_method_count": 2,
+      "domain_count": 2,
+      "url_count": 2
+    },
+    {
+      "brand_name": "MI CASINO",
+      "payment_processors": [
+        "ALPS SPA",
+        "ETPAY",
+        "FINTOC",
+        "KUSHKI",
+        "MACH",
+        "MONNET",
+        "SAFETYPAY",
+        "WEBPAY"
+      ],
+      "payment_labels": [
+        "Bitcoin",
+        "Cripto",
+        "Dep\u00f3sito bancario (Transferencia)",
+        "ETpay / Alps",
+        "Fintoc",
+        "Fintoc, ALPS SPA",
+        "MONNET",
+        "Mach",
+        "Pago en efectivo",
+        "Safetypay",
+        "Webpay, ALPS SPA",
+        "Webpay, Kushki"
+      ],
+      "payment_methods": [
+        "bank_transfer",
+        "card",
+        "cash",
+        "crypto",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "apiin.monnetpayments.com",
+        "checkout.somosmach.com",
+        "gateway.safetypay.com",
+        "micasinoenvivo.com",
+        "payments.alps.cl",
+        "pmt-alps.etpayment.com",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://apiin.monnetpayments.com/ms-multiprocessor/ux/operation/bffafaf9-c469-439f-8ab1-bfce37558b14",
+        "https://checkout.somosmach.com/payment/795d67e6-c4ed-48ae-ac00-de51773a6af1?tokenView=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc01hY2hJZCI6Ijk0ZDkzZDM0LTQyNzItNGIwYy1hMjExLTNjZmE3YjM4NGJhOSIsImJ1c2luZXNzUGF5bWVudElkIjoiNzk1ZDY3ZTYtYzRlZC00OGFlLWFjMDAtZGU1MTc3M2E2YWYxIiwic2NvcGVzIjpbInBheW1lbnRzLmNyZWF0ZSIsInBheW1lbnRzLmdldCJdLCJpYXQiOjE3Nzc1NTk2ODgsImV4cCI6MTc3NzU2MTE4OH0.r4PEjuflmDkhCaKVHq35_bRslXIWChlWaYqa236fPwo",
+        "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=9e819ffc-77c7-4ec2-899b-0e08ac22a7ce",
+        "https://micasinoenvivo.com/#",
+        "https://payments.alps.cl/justpay/check-out/?channel=online-fintoc&tokenID=RgL4wcewtipEhNuwTG52OUP8GcgoIkS4RqQYilOK&alps=1",
+        "https://pmt-alps.etpayment.com/session/WpFXqrB4mTTUsUJhEOfR0VFbbZimCYEZg68a0AthIY9TtZJ4Xo6ZVLaqo7zONiS0",
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/"
+      ],
+      "brand_site_domains": [
+        "micasinoenvivo.com"
+      ],
+      "brand_site_urls": [
+        "https://micasinoenvivo.com/#"
+      ],
+      "primary_brand_domain": "micasinoenvivo.com",
+      "processor_count": 8,
+      "payment_label_count": 12,
+      "payment_method_count": 5,
+      "domain_count": 7,
+      "url_count": 7
+    },
+    {
+      "brand_name": "NOVIBET",
+      "payment_processors": [
+        "ASTROPAY",
+        "NETELLER",
+        "PRONTOPAGA",
+        "SAFETYPAY",
+        "SKRILL",
+        "WEBPAY"
+      ],
+      "payment_labels": [
+        "Astropay",
+        "Dep\u00f3sito bancario (Transferencia)",
+        "Ingresar D\u00e9bito/Cr\u00e9dito",
+        "Neteller",
+        "Pago en efectivo",
+        "Safetypay",
+        "Skrill",
+        "Skrill 1-Tap",
+        "Webpay, ProntoPaga"
+      ],
+      "payment_methods": [
+        "bank_transfer",
+        "card",
+        "cash",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "gateway.safetypay.com",
+        "pay.neteller.com",
+        "pay.skrill.com",
+        "secure.safecharge.com",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=25be6111-f018-4a74-936f-06691e68a8c2&CountryID=CHL&ChannelID=ONLINE",
+        "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=7024a539-5681-4aae-84d2-a9614cef2339&CountryID=CHL&ChannelID=CASH",
+        "https://pay.neteller.com/wallet/checkout/options?sid=94b5c25b10f609b5f821a9c2fb2f7e85",
+        "https://pay.skrill.com/wallet/checkout/options/login?sid=8debd762e4b03daf9847faa174f9453f",
+        "https://pay.skrill.com/wallet/checkout/options/suggest-confirmation/type?sid=6fbad62770c1fe416b00ea8448692654",
+        "https://secure.safecharge.com/ppp/purchase.do?merchant_id=8552619114233089123&merchant_site_id=202128&total_amount=50000.0&currency=CLP&country=CL&user_token_id=1494018979459633152&item_name_1=1499415226706731008&item_amount_1=50000.0&item_quantity_1=1&time_stamp=20260430142047&version=4.0.0&payment_method=apmgw_AstroPay&payment_method_mode=filter&merchantLocale=es_CL&merchant_unique_id=1499415226706731008&email=valesaavedra4@gmail.com&customField1=CL&customField2=NoviCL&notify_url=https://safecharge.apinovi.com/api/webhook&success_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&error_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&pending_url=https://cl.novibet.com/deposit/SafechargeFastPayConfirmation&parent_url=https://cl.novibet.com/useraccount/deposit&phone1=0056975700775&back_url=https://cl.novibet.com/useraccount/deposit&first_name=Valentina&last_name=Saavedra%20Sanhueza&city=Pudahuel&state=&zip=9020000&dateOfBirth=2000-05-20&address1=Pasaje%20Isla%20Owen&encoding=UTF-8&checksum=9ba11ad8e1878e77eb039bb5ac49bc8676fe2227791cfe571240b53235d6d8db",
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/"
+      ],
+      "brand_site_domains": [],
+      "brand_site_urls": [],
+      "primary_brand_domain": "novibet.com",
+      "processor_count": 6,
+      "payment_label_count": 9,
+      "payment_method_count": 4,
+      "domain_count": 5,
+      "url_count": 7
+    },
+    {
+      "brand_name": "ROJABET",
+      "payment_processors": [
+        "ASTROPAY",
+        "CLEO",
+        "KUSHKI",
+        "MACH",
+        "MONNET",
+        "WEBPAY"
+      ],
+      "payment_labels": [
+        "Astropay",
+        "Bitcoin",
+        "Cleo",
+        "Cripto",
+        "MONNET",
+        "Mach",
+        "Webpay, Kushki"
+      ],
+      "payment_methods": [
+        "card",
+        "crypto",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "onetouch.astropay.com",
+        "rojabet.com",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://onetouch.astropay.com/deposit/init/XIQtCOnnUEA2blMmCaoxbVE7VXvJBFF33EC3R2IJ",
+        "https://rojabet.com/es-es",
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/"
+      ],
+      "brand_site_domains": [
+        "rojabet.com"
+      ],
+      "brand_site_urls": [
+        "https://rojabet.com/es-es"
+      ],
+      "primary_brand_domain": "rojabet.com",
+      "processor_count": 6,
+      "payment_label_count": 7,
+      "payment_method_count": 3,
+      "domain_count": 3,
+      "url_count": 3
+    },
+    {
+      "brand_name": "TONYBET",
+      "payment_processors": [
+        "ALPS SPA",
+        "CLEO",
+        "ETPAY",
+        "FINTOC",
+        "MACH",
+        "MIFINITY",
+        "MUCHBETTER",
+        "NETELLER",
+        "PAYKU",
+        "SKRILL",
+        "WEBPAY"
+      ],
+      "payment_labels": [
+        "Bitcoin",
+        "Cleo",
+        "Cripto",
+        "ETpay / Alps",
+        "Fintoc",
+        "Ingresar D\u00e9bito/Cr\u00e9dito",
+        "Mach",
+        "Mifinity",
+        "Muchbetter",
+        "Neteller",
+        "Skrill",
+        "Webpay, Payku"
+      ],
+      "payment_methods": [
+        "bank_transfer",
+        "card",
+        "crypto",
+        "wallet_or_psp"
+      ],
+      "domains": [
+        "api.paymentiq.io",
+        "cleopagos.com",
+        "gateway.safetypay.com",
+        "pay.skrill.com",
+        "payments.alps.cl",
+        "pmt-alps.etpayment.com",
+        "tonybet.com",
+        "webpay3g.transbank.cl"
+      ],
+      "urls": [
+        "https://api.paymentiq.io/paymentiq/api/piq-redirect-assistance/72001f66-03d2-4cad-a2a9-b9d6e1744092",
+        "https://api.paymentiq.io/paymentiq/api/piq-redirect-assistance/7c817536-5798-418c-9201-cd96c9f5c593",
+        "https://gateway.safetypay.com/Express4/Checkout/index?TokenID=c842123b-4eb0-4fda-a8f1-bec1883329fb",
+        "https://pay.skrill.com/wallet/checkout/options?sid=d3dcb032dfda4674c8e26dbb004cb9c6",
+        "https://payments.alps.cl/justpay/check-out/?channel=online-fintoc&tokenID=kQjbfiKV4ZfbjTQpKTD6eLFI1jP0ZtBDv8afCTu5&alps=1",
+        "https://pmt-alps.etpayment.com/session/yDe9IO9tEKOuGLZ3J8W0iN6rVipH8MGMMDPRZWWqBWvomSSuqMQNfgS2DnVyK7rB",
+        "https://tonybet.com/cl",
+        "https://webpay3g.transbank.cl/webpayserver/dist/#/",
+        "https://www.cleopagos.com/?id=10e43b47-6043-4c67-8838-2a951afc0b5f"
+      ],
+      "brand_site_domains": [
+        "tonybet.com"
+      ],
+      "brand_site_urls": [
+        "https://tonybet.com/cl"
+      ],
+      "primary_brand_domain": "tonybet.com",
+      "processor_count": 11,
+      "payment_label_count": 12,
+      "payment_method_count": 4,
+      "domain_count": 8,
+      "url_count": 9
+    }
+  ],
+  "methodology_note": "payment_gateways corresponde a PSP o pasarelas identificadas desde el rotulo observado; payment_methods conserva los medios de pago rotulados en la planilla; casino_urls contiene URLs cuyo dominio coincide con la marca monitoreada cuando existen en el levantamiento."
+}

@@ -1,0 +1,299 @@
+{
+  "available": true,
+  "source_name": "InfoLobby - Consejo para la Transparencia",
+  "source_url": "https://www.infolobby.cl/DatosAbiertos/Catalogos",
+  "source_page_consulted_at": "2026-05-17",
+  "topic_filter_label": "ley de casinos, apuestas online, plataformas de apuestas y casas de apuestas",
+  "matched_audience_count": 215,
+  "distinct_lobbyist_count": 27,
+  "top_lobbyists": [
+    {
+      "rank": 1,
+      "lobbyist_name": "Carlos Baeza / Carlos Baeza Gu\u00ed\u00f1ez",
+      "beneficiary_summary": "Carlos Baeza (17); Nicole Morand\u00e9 (3); Agrupaci\u00f3n de plataformas de juego en l\u00ednea (2); +7 m\u00e1s",
+      "lobbyist_display": "Carlos Baeza / Carlos Baeza Gu\u00ed\u00f1ez (Carlos Baeza (17); Nicole Morand\u00e9 (3); Agrupaci\u00f3n de plataformas de juego en l\u00ednea (2); +7 m\u00e1s)",
+      "meeting_count": 24,
+      "unique_audience_count": 24,
+      "passive_meetings": [
+        {
+          "passive_name": "Heidi Berner",
+          "passive_role": "Subsecretario",
+          "passive_organization": "SUBSECRETAR\u00cdA DE HACIENDA",
+          "meetings_count": 3,
+          "display": "Heidi Berner (Subsecretario)"
+        },
+        {
+          "passive_name": "Alejandro Bernales Maldonado",
+          "passive_role": "Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 2,
+          "display": "Alejandro Bernales Maldonado (Diputado)"
+        },
+        {
+          "passive_name": "Joaqu\u00edn Lav\u00edn Le\u00f3n",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 2,
+          "display": "Joaqu\u00edn Lav\u00edn Le\u00f3n (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Andr\u00e9s Giordano Salazar",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Andr\u00e9s Giordano Salazar (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Anuar Quesille",
+          "passive_role": "Jefe de servicio",
+          "passive_organization": "Defensor\u00eda de los Derechos de la Ni\u00f1ez",
+          "meetings_count": 1,
+          "display": "Anuar Quesille (Jefe de servicio)"
+        },
+        {
+          "passive_name": "Boris Barrera Moreno",
+          "passive_role": "Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Boris Barrera Moreno (Diputado)"
+        },
+        {
+          "passive_name": "Claudia Sanhueza Riveros",
+          "passive_role": "Subsecretario",
+          "passive_organization": "SUBSECRETAR\u00cdA DE HACIENDA",
+          "meetings_count": 1,
+          "display": "Claudia Sanhueza Riveros (Subsecretario)"
+        },
+        {
+          "passive_name": "Eric Aedo Jeldres",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Eric Aedo Jeldres (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Felipe Cama\u00f1o C\u00e1rdenas",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Felipe Cama\u00f1o C\u00e1rdenas (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Frank Sauerbaum Mu\u00f1oz",
+          "passive_role": "Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Frank Sauerbaum Mu\u00f1oz (Diputado)"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "lobbyist_name": "Nicole Morand\u00e9 Pizarro",
+      "beneficiary_summary": "Carlos Baeza (13); Agrupaci\u00f3n de plataformas de juego en l\u00ednea (2); Nicole Morand\u00e9 (2); +2 m\u00e1s",
+      "lobbyist_display": "Nicole Morand\u00e9 Pizarro (Carlos Baeza (13); Agrupaci\u00f3n de plataformas de juego en l\u00ednea (2); Nicole Morand\u00e9 (2); +2 m\u00e1s)",
+      "meeting_count": 16,
+      "unique_audience_count": 16,
+      "passive_meetings": [
+        {
+          "passive_name": "Heidi Berner",
+          "passive_role": "Subsecretario",
+          "passive_organization": "SUBSECRETAR\u00cdA DE HACIENDA",
+          "meetings_count": 3,
+          "display": "Heidi Berner (Subsecretario)"
+        },
+        {
+          "passive_name": "Joaqu\u00edn Lav\u00edn Le\u00f3n",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 2,
+          "display": "Joaqu\u00edn Lav\u00edn Le\u00f3n (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Alejandro Bernales Maldonado",
+          "passive_role": "Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Alejandro Bernales Maldonado (Diputado)"
+        },
+        {
+          "passive_name": "Andr\u00e9s Giordano Salazar",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Andr\u00e9s Giordano Salazar (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Anuar Quesille",
+          "passive_role": "Jefe de servicio",
+          "passive_organization": "Defensor\u00eda de los Derechos de la Ni\u00f1ez",
+          "meetings_count": 1,
+          "display": "Anuar Quesille (Jefe de servicio)"
+        },
+        {
+          "passive_name": "Boris Barrera Moreno",
+          "passive_role": "Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Boris Barrera Moreno (Diputado)"
+        },
+        {
+          "passive_name": "Eric Aedo Jeldres",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Eric Aedo Jeldres (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Felipe Cama\u00f1o C\u00e1rdenas",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Felipe Cama\u00f1o C\u00e1rdenas (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Frank Sauerbaum Mu\u00f1oz",
+          "passive_role": "Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Frank Sauerbaum Mu\u00f1oz (Diputado)"
+        },
+        {
+          "passive_name": "MAGDA SOF\u00cdA COTTET CAPRILES",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "MAGDA SOF\u00cdA COTTET CAPRILES (Asesor legislativo Diputado)"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "lobbyist_name": "Sergio Ignacio Morales Cruz",
+      "beneficiary_summary": "Sergio Ignacio Morales Cruz (11); Carlos Baeza (1)",
+      "lobbyist_display": "Sergio Ignacio Morales Cruz (Sergio Ignacio Morales Cruz (11); Carlos Baeza (1))",
+      "meeting_count": 12,
+      "unique_audience_count": 12,
+      "passive_meetings": [
+        {
+          "passive_name": "Flor Weisse Novoa",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 2,
+          "display": "Flor Weisse Novoa (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Miguel Mellado Suazo",
+          "passive_role": "Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 2,
+          "display": "Miguel Mellado Suazo (Diputado)"
+        },
+        {
+          "passive_name": "Christian Matheson Vill\u00e1n",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Christian Matheson Vill\u00e1n (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Crist\u00f3bal Mart\u00ednez Ram\u00edrez",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Crist\u00f3bal Mart\u00ednez Ram\u00edrez (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Erika Olivera De La Fuente",
+          "passive_role": "Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Erika Olivera De La Fuente (Diputado)"
+        },
+        {
+          "passive_name": "Jorge Guzm\u00e1n Zepeda",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Jorge Guzm\u00e1n Zepeda (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Jos\u00e9 Carlos Meza Pereira",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Jos\u00e9 Carlos Meza Pereira (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Roberto Arroyo Mu\u00f1oz",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Roberto Arroyo Mu\u00f1oz (Asesor legislativo Diputado)"
+        },
+        {
+          "passive_name": "Sof\u00eda Cid Versalovic",
+          "passive_role": "Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "Sof\u00eda Cid Versalovic (Diputado)"
+        },
+        {
+          "passive_name": "V\u00edctor Alejandro Pino Fuentes",
+          "passive_role": "Asesor legislativo Diputado",
+          "passive_organization": "CAMARA DE DIPUTADOS",
+          "meetings_count": 1,
+          "display": "V\u00edctor Alejandro Pino Fuentes (Asesor legislativo Diputado)"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "lobbyist_name": "Ariel Madera Ca\u00f1upan",
+      "beneficiary_summary": "Kaizen Gaming International Limited (2)",
+      "lobbyist_display": "Ariel Madera Ca\u00f1upan (Kaizen Gaming International Limited (2))",
+      "meeting_count": 2,
+      "unique_audience_count": 2,
+      "passive_meetings": [
+        {
+          "passive_name": "Juan Pablo Rodr\u00edguez Oyarz\u00fan",
+          "passive_role": "Subsecretario",
+          "passive_organization": "SUBSECRETAR\u00cdA DE HACIENDA",
+          "meetings_count": 1,
+          "display": "Juan Pablo Rodr\u00edguez Oyarz\u00fan (Subsecretario)"
+        },
+        {
+          "passive_name": "Tom\u00e1s Bunster",
+          "passive_role": "Otro",
+          "passive_organization": "SUBSECRETAR\u00cdA DE HACIENDA",
+          "meetings_count": 1,
+          "display": "Tom\u00e1s Bunster (Otro)"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "lobbyist_name": "Carlos Neira",
+      "beneficiary_summary": "Kaizen Gaming International Limited (2)",
+      "lobbyist_display": "Carlos Neira (Kaizen Gaming International Limited (2))",
+      "meeting_count": 2,
+      "unique_audience_count": 2,
+      "passive_meetings": [
+        {
+          "passive_name": "Heidi Berner",
+          "passive_role": "Subsecretario",
+          "passive_organization": "SUBSECRETAR\u00cdA DE HACIENDA",
+          "meetings_count": 1,
+          "display": "Heidi Berner (Subsecretario)"
+        },
+        {
+          "passive_name": "Juan Candia",
+          "passive_role": "Jefe de servicio",
+          "passive_organization": "AGENCIA DE PROMOCI\u00d3N DE LA INVERSI\u00d3N EXTRANJERA",
+          "meetings_count": 1,
+          "display": "Juan Candia (Jefe de servicio)"
+        }
+      ]
+    }
+  ]
+}
